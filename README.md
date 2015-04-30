@@ -1,10 +1,11 @@
 # Wizard Amigos Institute
 
-In thid repository, you will find our:
+In this repository, you will find our:
 * Current Vision and Core Values
 * Current Structure
 * Current Business Processes
 
+**Please feel free to to open issues (ideas or questions) and help us to improve :-)**
 
 # Our vision and core values
 
