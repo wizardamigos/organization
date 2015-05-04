@@ -3,6 +3,9 @@
 
 # Welcome, wizard amigo :-) ![share]
 
+
+[share]
+
 ## Come, learn to code with us.
 
 Wizard Amigos Institute designs co-learning programming sessions.
