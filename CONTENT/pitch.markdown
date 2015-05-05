@@ -3,6 +3,23 @@
 
 # Welcome, wizard amigo :-) ![share]
 
+I use [Google][1] more than [Yahoo][2] or [Bing][3].
+[1]: http://google.com/ "Google Search"
+[2]: http://search.yahoo.com/ "Yahoo Search"
+[3]: http://www.bing.com/ "Bing Search"
+  ***
+  I use [Google] [1] more than [Yahoo][2][3] or [Bing][3].
+
+  [3]
+
+  [1]
+
+  [3][1]
+
+  [1]: http://google.com/ "Google Search"
+  [2]: http://search.yahoo.com/ "Yahoo Search"
+  [3]: http://www.bing.com/ "Bing Search"
+
 
 [share]
 
