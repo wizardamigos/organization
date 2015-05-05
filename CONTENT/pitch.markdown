@@ -1,9 +1,9 @@
 [](#english)
 ---
 
-# Welcome, wizard amigo :-) ![share]
+# Welcome, wizard amigo :-) [share]
 
-I use [Google][1] more than [Yahoo][2] or [Bing][3].
+I use [][1] more than [][asdf] or [][share].
 [1]: http://google.com/ "Google Search"
 [2]: http://search.yahoo.com/ "Yahoo Search"
 [3]: http://www.bing.com/ "Bing Search"
