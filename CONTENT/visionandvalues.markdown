@@ -11,13 +11,13 @@
   * Help us to maximize inclusion! [Donate](https://gratipay.com/pleaseDropUsAnEmailInstead) to support our Pay-what-you-can programme. 
 
 ## Makers' "Do It Yourself" Spirit
-  * Visible progress is the best motivator for continuous learning. Wizards are encouraged to kickstart their own projects.
-  * We teach wizards quick organized prototyping to empower local entrepreneurial thinking and a hands-on approach.    * Prototypes are constantly tested and based on the feedback new improvements are done in each iteration. 
+  * Visible progress is the best motivator for continuous learning so wizards are encouraged to kickstart their own projects.
+  * We teach wizards quick organized prototyping to empower local entrepreneurial thinking and a hands-on approach.    * Prototypes are then constantly tested and based on the feedback new improvements are done in each iteration. 
 
 ## Open Culture of Collaboration
-  * During learning sessions new wizards co-create projects.
-  * They are introduced to different state-of-the-art tools & methods for self-directed collaboration.
-
+  * We introduce wizards to different state-of-the-art tools & methods for self-directed collaboration.
+  * Individuals are then encouraged to collaborate on projects & to invite others to join their projects.
+ 
 ## Open Source & Sharing
   * We create a knowledge sharing movement to spread the new literacy.
   * New wizards share progress and questions openly to inspire others and to get feedback from their peers.
@@ -26,4 +26,4 @@
 ## Open Organisation & Transparency
   * Our processes, finances and organization are completely transparent.
   * We develop support networks for changemakers to go on and create open incubators elsewhere using our model.
-  * Please get in touch. Let us know what are your thoughts on our values. Ask us what was unclear. Debate. We are happy to help you with more information.
+  * Please get in touch. Let us know what are your thoughts on our values. Ask us what was unclear. Debate. We are happy to help you with more information and to hear your opinion.
