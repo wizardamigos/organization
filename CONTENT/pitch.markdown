@@ -1,28 +1,23 @@
-# Welcome, wizard amigo :-) ![share]
+
+---
+[](#english)
+# Welcome, Wizard Amigo :-) [](#share)
 
 ## Come, learn to code with us.
 
-Wizard Amigos Institute designs co-learning programming sessions.
-It is an open, friendly and collaborative space where girls and boys can learn how to code.
+Wizard Amigos Institute designs co-learning sessions in a friendly and playful atmosphere. We invite you to join us and become a self-directed collaborative coder using state-of-the-art tools and methods to co-create the future.
 
-/// asdf
-[comment]: <> (This is a comment, it will not be included)
-[comment]: <> (in  the output file unless you use it in)
-[comment]: <> (a reference style link.)
+Calling all wizards! If you are skilled in the ways of magic already, [lend your wizardly powers](#JOIN) to help :-)
 
-[//]: # "This may be the most platform independent comment"
+---
+[](#german)
+# Willkommen, Wizard Amigo :-) [](#share)
 
-[share]: http://upload.wikimedia.org/wikipedia/commons/e/e1/Share_Icon.png "Share on Twitter Facebook or Email"
+## Komm, lern mit uns das Programmieren.
 
+Das Coding Amigos Institut gestaltet kollaborative Lernsitzungen in einer freundlichen und spielerischen Atomsphäre.
+Wir laden dich ein mit uns zum selbstbestimmten kollaborativen Programmierer zu werden der unter Nutzung hochmoderner Methoden und digitaler Werkzeuge die Zukunft miterschafft.
 
-kk
-
-<!-- asdf -->
-
-Invisible Link <a href="#anchor"></a>
-
-[](#anchor)
-
-kk
+An alle Zauberer! Wenn du mit der Magie bereits bestens Vertraut bist, helf mit und [leihe uns deine magischen Fähigkeiten](#JOIN) :-)
 
 ---
