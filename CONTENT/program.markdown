@@ -1,11 +1,11 @@
 
 ---
 [](#english)
-# Magic Spells [](#share)
+# Wizardry & Magic Spells
 
 ## All aspects of magic interesting to a fresh wizard.
 
-We are going to try hard to make this learning journey exciting for all future wizard amigos and provide the following learning materials to help you master magic spells and techniques:
+We are going to try hard to make this learning journey exciting for all future wizard amigos and provide the following learning materials open source and under a free license, to help you master the magic spells to become an active problem solver:
 * **[magic tools]( summary )**
   * [unix shell]( learningMaterials & screencasts ),
     [text editor]( learningMaterials & screencasts ) &
@@ -34,17 +34,17 @@ We are going to try hard to make this learning journey exciting for all future w
     [leveldb]( learningMaterials & screencasts ) &
     [regex]( learningMaterials & screencasts )
 
-Wizardry is serious business. After each session we will create a siple video summary for you to practice your magic spells at home and collaborate on projects with other wizards.
+We encourage you to pick your own projects. Come up with your own or join existing ones. We know, in the beginning this can be challenging, but no worries, we'll help you to explore :-)
 
-We also encourage you to come up with your own project, but if you don't know how, no worries, we will help you find one :-)
+Wizardry is serious business. After each session we will create a simple video summary for you to practice your magic spells at home and collaborate on projects with other wizards, because we believe in collaboration and a learning-by-doing approach.
 
 ---
 [](#german)
-# Zaubersprüche [](#share)
+# Zauberei & Zaubersprüche
 
 ## Alle Aspekte der Magie die für einen neuen Zauberer interessant sind.
 
-Wir geben uns alle Mühe die Lernreise aufregend für alle zukünftigen Wizard Amigos zu machen und liefern die folgenden Lernmaterialien quelloffen und mit freier Lizenz, um dir zu helfen die Zaubersprüche und -techniken zu meistern:
+Wir geben uns alle Mühe die Lernreise aufregend für alle zukünftigen Wizard Amigos zu machen und liefern die folgenden Lernmaterialien quelloffen und unter freier Lizenz, um dir zu helfen Zaubersprüche zu meistern um ein aktiver Problemlöser zu werden:
 * **[magic tools]( summary )**
   * [unix shell]( learningMaterials & screencasts ),
     [text editor]( learningMaterials & screencasts ) &
@@ -73,8 +73,8 @@ Wir geben uns alle Mühe die Lernreise aufregend für alle zukünftigen Wizard A
     [leveldb]( learningMaterials & screencasts ) &
     [regex]( learningMaterials & screencasts )
 
-Zauberei ist ein ernsthaftes Geschäft. Nach jeder Sitzung werden wir eine Videozusammenfassung erstellen, so dass du deine Zaubersprüche üben und mit anderen Zauberern gemeinsam an Projekten arbeiten kannst.
+Jeder Teilnehmer ist dazu aufgerufen eigene Projekte zu wählen. Starte neue oder helfe anderern mit deren. Wir wissen, dass dies anfangs herausfordernd ist, aber keine Sorge, wir helfen jedem gerne dabei :-)
 
-Wir ermutern dich dein eigenes Projekt zu starten, aber wenn du nicht weisst wie, keine Sorge, wir helfen dir eins zu finden :-)
+Zauberei ist ein ernsthaftes Geschäft. Nach jeder Sitzung werden wir eine Videozusammenfassung erstellen, so dass du deine Zaubersprüche üben und mit anderen Zauberern gemeinsam an Projekten arbeiten kannst, denn wir glauben an Zusammenarbeit und  Learning by Doing.
 
 ---

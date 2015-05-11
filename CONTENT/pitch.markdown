@@ -1,23 +1,23 @@
 
 ---
 [](#english)
-# Welcome, Wizard Amigo :-) [](#share)
+# Welcome, Wizard Amigo :-)
 
 ## Come, learn to code with us.
 
-Wizard Amigos Institute designs co-learning sessions in a friendly and playful atmosphere. We invite you to join us and become a self-directed collaborative coder using state-of-the-art tools and methods to co-create the future.
+Wizard Amigos Institute invites you to join its co-learning programming sessions in a friendly and playful atmosphere.
+Learn with us how to use state-of-the-art tools and methods to become a self-directed collaborative coder who co-creates the future using special magic programming wizardry.
 
 Calling all wizards! If you are skilled in the ways of magic already, [lend your wizardly powers](#JOIN) to help :-)
 
 ---
 [](#german)
-# Willkommen, Wizard Amigo :-) [](#share)
+# Willkommen, Wizard Amigo :-)
 
 ## Komm, lern mit uns das Programmieren.
 
-Das Coding Amigos Institut gestaltet kollaborative Lernsitzungen in einer freundlichen und spielerischen Atomsphäre.
-Wir laden dich ein mit uns zum selbstbestimmten kollaborativen Programmierer zu werden der unter Nutzung hochmoderner Methoden und digitaler Werkzeuge die Zukunft miterschafft.
+Das Wizard Amigos Institut lädt dich zu seinen kollaborativen Programmier-Lernsessions in freundlicher und spielerischer Atmosphäre ein. Erlerne mit uns die Nutzung hochmoderner Methoden und digitaler Werkzeuge um als selbstbestimmter kollaborativer Programmierer unter Nutzung spezieller magischer Kodierzauberei die Zukunft mitzugestalten.
 
-An alle Zauberer! Wenn du mit der Magie bereits bestens Vertraut bist, helf mit und [leihe uns deine magischen Fähigkeiten](#JOIN) :-)
+Aufruf an alle Zauberer! Wenn du mit der Magie bereits bestens Vertraut bist, hilf mit und [leihe uns deine magischen Fähigkeiten](#JOIN) :-)
 
 ---

@@ -1,3 +1,5 @@
+# MANIFESTO
+
 # Our vision and core values
 
 ## Literacy
