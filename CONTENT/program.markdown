@@ -3,7 +3,7 @@
 [](#english)
 # Wizardry & Magic Spells
 
-## All aspects of magic interesting to a fresh wizard.
+## Everything you need to know about our Magic sessions
 
 We are trying hard to make this learning journey exciting for all future wizard amigos. All the learning materials are open source and under a free license. We want you to master the magic spells and become an active problem solver:
 * **[magic tools]( summary )**
