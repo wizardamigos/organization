@@ -29,7 +29,7 @@ We currently organize 2 sessions per week. Every magic session accepts **up to 1
 | **Super Magic Sessions**      |  Monday  | (16:00-19:00) | [CO_UP (Adalbertstrasse 8)](https://www.google.de/maps/dir//co.up,+Adalbertstra%C3%9Fe+8,+10999+Berlin,+Deutschland/@52.50033,13.419786,17z/data=!4m12!1m3!3m2!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2sco.up!4m7!1m0!1m5!1m1!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2m2!1d13.419786!2d52.50033) | 240 EUR/month |      (4 x 3h) / month      |
 
 [//]: # ([=> SUBSCRIBE](...))
-*For each **paid session** we will donate a certain amount to support our **pay-what-you-can program**. If you want to help us with that, please feel free to donate **(see next section)***
+*For each **paid session** we will donate a certain amount to support our **pay-what-you-can program**. We would really appreciate your donations to make it happen **(see next section)***
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
