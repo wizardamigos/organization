@@ -1,5 +1,5 @@
 # Wall of inspiration
-This page is our little thank you to all the communities around us who inspire us to see and follow our vision.
+This page is our little thank you to all the communities around us who inspire us to see and follow our vision. Thank you, guys, for being awesome:)
 
 ### Co.Up
 * [Co.Up](http://co-up.de/) is the space where learners and hackers meet. Our idea and our community was born there. They provide us with space and infrastructure. We are grateful to have them on our side.
@@ -17,4 +17,4 @@ This page is our little thank you to all the communities around us who inspire u
 * [Coconut Space](http://coconat-space.com/place/) is a place for digital workers to be inspired, concentrate, work, and play in the countryside. We value their quest for promoting healthy life-work balance and are happy to help them get it off the ground.
 
 ### BERLIN CODE OF CONDUCT
-* We are inspired by and want to support the [Berlin Code of Conduct](http://berlincodeofconduct.org/)
+* We are inspired by and want to support the [Berlin Code of Conduct](http://berlincodeofconduct.org/).
