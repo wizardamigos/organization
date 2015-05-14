@@ -5,7 +5,7 @@
 
 ## All aspects of magic interesting to a fresh wizard.
 
-Our next free trial session takes place on [monday, 4pm @ co_up](#Calendar). Feel free to join :-)
+Our next free trial session will take place on [Monday, 4pm @ co_up](#Calendar). Feel free to join :-)
 
 [//]: # (@TODO - integrate twitter feed later)
 
