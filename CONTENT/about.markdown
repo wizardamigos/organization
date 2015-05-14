@@ -1,6 +1,6 @@
 [//]: # (@TODO - make this file nice)
 
-# Manifesto
+# About Wizard Amigos Institute
 (Philosophy/Values/Goals)
 => Link to Github
 
@@ -9,15 +9,19 @@ Our mission is to empower kids with programming skills for making social change!
 
 With wizard amigos workshops
 Kids will:
-- ...
+- get to know basic programming concepts and develop logical thinking
+- learn fastest growing programming language - JavaScript and its ecosystem
+- learn to collaborate with other learners
+- find out everything about how to apply her/his new skills with learning-by-doing approach
+
 Tech Companies will:
 - ...
 Mentors will:
 - ...
 ## Our story
-Jan 2014 we started Coding Amigos Hackathons, we organized over 70 events and co-learning workshops. Before that we participated in several groups- from universities, incubators, rails girls, startup weekends, open tech school, ...
+In early 2014 we started Coding Amigos Hackathons. We organized over 70 events and co-learning workshops. Before that we participated in several groups: University Incubator, Social Media Week, Rails Girls, StartUp weekend, Open Tech School etc.
 
-During last year,we have met a lot of coding learners and got to know several techniques for beginners and advanced learners.
+During the last year we have met a lot of coding learners and got to know several techniques for beginners and advanced learners. We realised we have enough experiences to bring this skills also to the youngest segment. And so the idea for programming school for kids was born.
 
 Programming is a new literacy
 
