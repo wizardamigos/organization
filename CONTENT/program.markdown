@@ -5,7 +5,7 @@
 
 ## All aspects of magic interesting to a fresh wizard.
 
-We are going to try hard to make this learning journey exciting for all future wizard amigos and provide the following learning materials open source and under a free license, to help you master the magic spells to become an active problem solver:
+We are trying hard to make this learning journey exciting for all future wizard amigos. All the learning materials are open source and under a free license. We want you to master the magic spells and become an active problem solver:
 * **[magic tools]( summary )**
   * [unix shell]( learningMaterials & screencasts ),
     [text editor]( learningMaterials & screencasts ) &
@@ -34,9 +34,9 @@ We are going to try hard to make this learning journey exciting for all future w
     [leveldb]( learningMaterials & screencasts ) &
     [regex]( learningMaterials & screencasts )
 
-We encourage you to pick your own projects. Come up with your own or join existing ones. We know, in the beginning this can be challenging, but no worries, we'll help you to explore :-)
+We also encourage all the participants to have some project you want to work on (but if you don't, no worries, we will help you find one or you will be able to join one of existing projects).
 
-Wizardry is serious business. After each session we will create a simple video summary for you to practice your magic spells at home and collaborate on projects with other wizards, because we believe in collaboration and a learning-by-doing approach.
+Wizardry is serious business. We will create a simple video summary after each session. You can practice your magic spells at home and to collaborate with other wizards.
 
 ---
 [](#german)
