@@ -5,7 +5,7 @@
 
 ## We teach children computer programming. Please support us so we can continue to introduce coding to children across Germany!
 
-Wizard Amigos Institute is supported by individuals and companies who believe that children everywhere in Germany should be able to access computer science early in their education. We rely on the support of our communities. All fundraising efforts help us teach another child to code.
+Wizard Amigos Institute is supported by individuals and companies who believe that children all around Germany should be able to access computer science early in their education. We rely on the support of our communities. All fundraising efforts help us teach another child to code.
 
 Sponsor a child to learn to code!  
 4 x 1.5h over 1 month= 120EUR/child.
