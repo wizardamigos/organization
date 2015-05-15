@@ -22,8 +22,6 @@ Mentors will be able to:
 - get paid for sharing their skills with kids
 - be part of community of continuous learners and get help with getting their projects off the ground
 
-Schools
-
 ## Our story
 In early 2014 we started Coding Amigos Hackathons in Berlin. We organized over 70 events and co-learning workshops. Before that we participated in several groups: University Incubator, Social Media Week, Rails Girls, StartUp weekend, Open Tech School etc.
 
