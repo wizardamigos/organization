@@ -44,11 +44,6 @@ Wizard Amigos Institute has opened its doors in May 2015.
 - co-founder of [Frappe](http://frappe-rheinmain.de/)
 - open source contributor to [Atomify](https://github.com/atomify/atomify)
 
-
-https://gitter.im/wizardamigosinstitute/chat
-wizard@amigos.institute
-http://wizard.amigos.institute/
-
 If you want to know more, please checkout
 [more details](https://github.com/wizardamigosinstitute/organisation/blob/master/README.md)
 
@@ -59,5 +54,5 @@ If you want to know more, please checkout
 
 ### Contact Us
 * [Email](mailto:wizard@amigos.institute)
-
+* [Wizard Amigos Institute Chat](https://gitter.im/wizardamigosinstitute/chat)
 
