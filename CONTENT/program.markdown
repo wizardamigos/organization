@@ -5,7 +5,7 @@
 
 ## Everything you need to know about our Magic sessions
 
-We are trying hard to make this learning journey exciting for all future wizard amigos. All the learning materials are open source and under a free license. We want you to master the magic spells and become an active problem solver:
+We are trying hard to make this learning journey exciting for all future wizard amigos. All the learning materials are open source and under a free license. We cover the main elements that every wizard apprentice needs to know:
 * **[magic tools]( summary )**
   * [unix shell]( learningMaterials & screencasts ),
     [text editor]( learningMaterials & screencasts ) &
@@ -34,9 +34,9 @@ We are trying hard to make this learning journey exciting for all future wizard 
     [leveldb]( learningMaterials & screencasts ) &
     [regex]( learningMaterials & screencasts )
 
-We also encourage all the participants to have some project you want to work on (but if you don't, no worries, we will help you find one or you will be able to join one of existing projects).
+We also encourage all the participants to have some project they want to work on (but if they don't, no worries, we will help them find one or they will be able to join existing projects).
 
-Wizardry is serious business. We will create a simple video summary after each session. You can practice your magic spells at home and to collaborate with other wizards.
+Wizardry is serious business. We will create a simple video summary after each session so you can practice your magic spells at home and collaborate with other wizards.
 
 ---
 [](#german)
