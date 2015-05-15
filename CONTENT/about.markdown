@@ -34,12 +34,12 @@ Programming is a new literacy
 Wizard Amigos Institute has opened its doors in May 2015.
 
 ## CURRENT TEAM
-* [Nina Breznik - [@ninabreznik](https://twitter.com/ninabreznik)](https://github.com/ninabreznik)
+### [Nina Breznik - [@ninabreznik](https://twitter.com/ninabreznik)](https://github.com/ninabreznik)
 - co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/)
 - founder of [Zweidesign](http://zweidesign.co/)
 - [Rails Girl](http://railsgirlsberlin.de/)
 
-* [Alexander Praetorius - [@serapath](https://twitter.com/serapath)](https://github.com/serapath)
+### [Alexander Praetorius - [@serapath](https://twitter.com/serapath)](https://github.com/serapath)
 - co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/)
 - co-founder of [Frappe](http://frappe-rheinmain.de/)
 - open source contributor to [Atomify](https://github.com/atomify/atomify)
