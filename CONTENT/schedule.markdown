@@ -42,7 +42,7 @@ Currently we organize 2 sessions per week. Every magic session accepts **up to 1
 
 **[=> APPLY FOR PAY-WHAT-YOU-CAN PROGRAM](mailto:wizard@amigos.institute?Subject=Application:%20For%20the%20Pay-what-you-can%20program&Body=%0D%0A)**
 
-*If you have any further questions, just [drop us an e-mail](mailto:wizard@amigos.institute) and/or come to our free trial session :)*
+*If you have any further questions or if you want to join our free trial session just [send us an e-mail](mailto:wizard@amigos.institute).*
 
 ---
 [](#german)
