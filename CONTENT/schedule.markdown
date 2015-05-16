@@ -11,11 +11,9 @@ comment: goal - event emitter + bookmark bar app to subscribe
 [](#english)
 # Sessions of Wizardry
 
-## We offer everyone a free trial session. Come meet us and see if you like the magic we do. 
+## Come meet us and see if you like the magic we do. 
 
-Currently we organize 2 sessions per week. Every magic session accepts **up to 10 learners** and is run by at least 2 higher-level wizards.
-
-*If you have any further questions or if you want to join our free trial session just [send us an e-mail](mailto:wizard@amigos.institute).*
+Currently we organize 2 sessions per week. Every magic session accepts **up to 10 learners** and is run by at least 2 higher-level wizards. *We also offer everyone a free trial session. Apply [here](mailto:wizard@amigos.institute).*
 
 [//]: # (@TODO - next free workshop - sunday)
 [//]: # (@TODO - monday + thursday sessions)
