@@ -13,9 +13,9 @@ comment: goal - event emitter + bookmark bar app to subscribe
 
 ## We offer everyone a free trial session. Come meet us and see if you like the magic we do. 
 
-Currently we organize 2 sessions per week. Every magic session accepts **up to 10 learners** and is run by at least 2 higher-level wizards.  
+Currently we organize 2 sessions per week. Every magic session accepts **up to 10 learners** and is run by at least 2 higher-level wizards.
 
-*From time to time we organize free open **Show'n'tell** events for all wizards to share what they are working on and for everyone else to explore wizardry. This are easy going events. We want wizards to get feedback on their projects and to share some tricks they learned and difficulties they encountered on their journey.*
+*If you have any further questions or if you want to join our free trial session just [send us an e-mail](mailto:wizard@amigos.institute).*
 
 [//]: # (@TODO - next free workshop - sunday)
 [//]: # (@TODO - monday + thursday sessions)
@@ -24,8 +24,6 @@ Currently we organize 2 sessions per week. Every magic session accepts **up to 1
 
 | Name                      | Days     | Times         | Locations | Price | Terms |
 | ------------------------- |:--------:|:-------------:|:---------:|:-----:| :----:|
-| *Next* ***Show'n'tell** event*       |  ---  | --- | --- |       *Free*    | --- |
-| *Free Trial Session*        |  Monday  | (16:00-17:30) **or** (17:30-19:00) | [CO_UP (Adalbertstrasse 8)](https://www.google.de/maps/dir//co.up,+Adalbertstra%C3%9Fe+8,+10999+Berlin,+Deutschland/@52.50033,13.419786,17z/data=!4m12!1m3!3m2!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2sco.up!4m7!1m0!1m5!1m1!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2m2!1d13.419786!2d52.50033) |       *Free*    | **(Once / Learner)** |
 | **Magic Sessions**            |  Monday  | (16:00-17:30) **or** (17:30-19:00) | [CO_UP (Adalbertstrasse 8)](https://www.google.de/maps/dir//co.up,+Adalbertstra%C3%9Fe+8,+10999+Berlin,+Deutschland/@52.50033,13.419786,17z/data=!4m12!1m3!3m2!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2sco.up!4m7!1m0!1m5!1m1!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2m2!1d13.419786!2d52.50033) | 120 EUR/month |     (4 x 1.5h) / month     |
 | **Super Magic Sessions**      |  Monday  | (16:00-19:00) | [CO_UP (Adalbertstrasse 8)](https://www.google.de/maps/dir//co.up,+Adalbertstra%C3%9Fe+8,+10999+Berlin,+Deutschland/@52.50033,13.419786,17z/data=!4m12!1m3!3m2!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2sco.up!4m7!1m0!1m5!1m1!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2m2!1d13.419786!2d52.50033) | 240 EUR/month |      (4 x 3h) / month      |
 
@@ -43,7 +41,6 @@ Currently we organize 2 sessions per week. Every magic session accepts **up to 1
 
 **[=> APPLY FOR PAY-WHAT-YOU-CAN PROGRAM](mailto:wizard@amigos.institute?Subject=Application:%20For%20the%20Pay-what-you-can%20program&Body=%0D%0A)**
 
-*If you have any further questions or if you want to join our free trial session just [send us an e-mail](mailto:wizard@amigos.institute).*
 
 ---
 [](#german)
