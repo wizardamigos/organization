@@ -15,6 +15,7 @@ comment: goal - event emitter + bookmark bar app to subscribe
 
 Currently we organize 2 sessions per week. Every magic session accepts **up to 10 learners** and is run by at least 2 higher-level wizards. We also offer everyone a **free trial session**. [Apply here](mailto:wizard@amigos.institute) and check if you like it.
 
+
 [//]: # (@TODO - next free workshop - sunday)
 [//]: # (@TODO - monday + thursday sessions)
 [//]: # (@TODO - until seats are taken (6 left))
