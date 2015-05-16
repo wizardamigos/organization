@@ -54,3 +54,4 @@ If you want to know more, please checkout
 * [Email](mailto:wizard@amigos.institute)
 * [Wizard Amigos Institute Chat](https://gitter.im/wizardamigosinstitute/chat)
 
+[//] # (@TODO: add "Impressum", "Address", "TaxNo.", "...")
