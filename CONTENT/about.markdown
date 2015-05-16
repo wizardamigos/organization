@@ -43,7 +43,7 @@ Wizard Amigos Institute has opened its doors in May 2015.
 - open source contributor to [Atomify](https://github.com/atomify/atomify)
 
 If you want to know more, please checkout
-[more details](https://github.com/wizardamigosinstitute/organisation/blob/master/README.md)
+[more details](https://github.com/wizardamigosinstitute/organisation/blob/master/README.md).
 
 ### Follow Us
 * [Twitter](https://twitter.com/wizardamigos)
