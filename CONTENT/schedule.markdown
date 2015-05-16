@@ -9,11 +9,12 @@ comment: goal - event emitter + bookmark bar app to subscribe
 
 ---
 [](#english)
-# Magic sessions
+# Sessions of Wizardry
 
 ## We offer everyone a free trial session. Come meet us and see if you like the magic we do. 
 
 Currently we organize 2 sessions per week. Every magic session accepts **up to 10 learners** and is run by at least 2 higher-level wizards.  
+
 *From time to time we organize free open **Show'n'tell** events for all wizards to share what they are working on and for everyone else to explore wizardry. This are easy going events. We want wizards to get feedback on their projects and to share some tricks they learned and difficulties they encountered on their journey.*
 
 [//]: # (@TODO - next free workshop - sunday)
