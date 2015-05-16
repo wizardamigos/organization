@@ -13,7 +13,7 @@ comment: goal - event emitter + bookmark bar app to subscribe
 
 ## Come meet us and see if you like the magic we do. 
 
-Currently we organize 2 sessions per week. Every magic session accepts **up to 10 learners** and is run by at least 2 higher-level wizards. *We also offer everyone a free trial session. [Apply here](mailto:wizard@amigos.institute) and check if you like it.*
+Currently we organize 2 sessions per week. Every magic session accepts **up to 10 learners** and is run by at least 2 higher-level wizards. We also offer everyone a **free trial session**. [Apply here](mailto:wizard@amigos.institute) and check if you like it.
 
 [//]: # (@TODO - next free workshop - sunday)
 [//]: # (@TODO - monday + thursday sessions)
