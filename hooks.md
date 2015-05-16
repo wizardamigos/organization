@@ -11,4 +11,4 @@ Hi,
 we are starting first programming school for kids.
 Check out and get in touch!
 Classes will go on also during summer and each class accepts up to 10 kids. If parents organize the place in your local school, we are happy to introduce kids to programming wizardry at your favourable location.
-http://wizard.amigos.institute/ 
+http://wizard.amigos.institute/ *but should be tracked through bit.ly*
