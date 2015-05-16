@@ -37,7 +37,6 @@ Wizard Amigos Institute has opened its doors in May 2015.
   * co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/)
   * founder of [Zweidesign](http://zweidesign.co/)
   * [Rails Girl](http://railsgirlsberlin.de/)
-  
 * [Alexander Praetorius](https://github.com/serapath) - [@serapath](https://twitter.com/serapath)
   * co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/)
   * co-founder of [Frappe](http://frappe-rheinmain.de/)
@@ -55,4 +54,4 @@ If you want to know more, please checkout
 * [Email](mailto:wizard@amigos.institute)
 * [Wizard Amigos Institute Chat](https://gitter.im/wizardamigosinstitute/chat)
 
-[//] # (@TODO: add "Impressum", "Address", "TaxNo.", "...")
+[//] # (@TODO: add [Impressum], [Address], [TaxNo.], [...])
