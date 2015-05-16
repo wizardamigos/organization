@@ -16,5 +16,5 @@ This page is our little thank you to all the communities around us who inspire u
 ### Coconat Space
 * [Coconat Space](http://coconat-space.com/place/) is a place for digital workers to be inspired, concentrate, work, and play in the countryside. We value their quest for promoting healthy life-work balance and are happy to help them get it off the ground.
 
-### BERLIN CODE OF CONDUCT
+### Berlin Code of Conduct
 * We are inspired by and want to support the [Berlin Code of Conduct](http://berlincodeofconduct.org/).
