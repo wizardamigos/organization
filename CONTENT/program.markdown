@@ -36,7 +36,7 @@ We promise to make this learning journey exciting for all future wizard amigos. 
 
 We also encourage all the participants to pick their own projects (but if they don't, no worries, we will help them find one or they will be able to join existing projects).
 
-Wizardry is serious business. We will create a simple video summary after each session so you can practice your magic spells at home and collaborate with other wizards.
+Wizardry is serious business. Our goal is to create a simple video summary after each session so you can practice your magic spells at home and collaborate with other wizards.
 
 ---
 [](#german)
