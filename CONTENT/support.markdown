@@ -3,7 +3,9 @@
 [](#english)
 # Support us
 
-## We teach children computer programming. Please support us so we can continue to introduce coding to children across Germany!
+## We teach children computer programming. Please support us so we can continue to introduce coding to children.
+
+Are you a tech company, school, foundation or magic somebody who can help us? 
 
 Wizard Amigos Institute is supported by individuals and companies who believe that children all over Germany should be able to access computer science early in their education. We rely on the support of our communities. All fundraising efforts help us teach another child to code.
 
@@ -17,9 +19,9 @@ Sponsor a child to learn to code!
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-## Companies!
+## Companies
 
-Are you a tech company?  
+Special call to tech companies!
 Does your company rely on computer programmers to exist and grow?  
 If so, **PLEASE** support us so we can diversify and prepare your next generation of employees and partners. We’ll make sure you get lots of exposure and support in return.  
 Want to brainstorm? **[Contact us](mailto:wizard@amigos.institute?Subject=Brainstorm)** to see what we can do together.
