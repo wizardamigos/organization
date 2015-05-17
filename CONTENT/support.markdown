@@ -3,7 +3,7 @@
 [](#english)
 # Support us
 
-## We teach children computer programming. Please support us so we can continue to introduce coding to children.
+## We teach children computer programming & need your help to continue introducing coding to children.
 
 Are you a tech company, school, foundation or magic somebody who can help us? 
 
