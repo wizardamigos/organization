@@ -74,6 +74,6 @@ If you want to know more, please checkout
 </form>
 </div>
 
-<!--End mc_embed_signup-->)
+<!--End mc_embed_signup-->
 
 [//]: # (@TODO: add "Impressum", "Address", "TaxNo.", ...)
