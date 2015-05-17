@@ -29,8 +29,6 @@ Currently we organize 2 sessions per week. Every magic session accepts **up to 1
 
 For each paid learner we will donate a certain amount to support our **Pay-what-you-can program**. If you can't afford to pay the full price, **[apply here](mailto:wizard@amigos.institute?Subject=Application:%20For%20the%20Pay-what-you-can%20program&Body=%0D%0A)** for Pay-what-you-can program. 
 
-Are you a tech company, school, fundation or magic somebody who can help us? **Please donate** and support our Pay-what-you-can program.
-
 ---
 [](#german)
 
