@@ -3,7 +3,7 @@
 [](#english)
 # Unlocking Charm
 
-## Capabilities fresh wizards should possess
+## Who is Wizard Amigos Institute for
 
 * You should be at least 8 years old.
 * You need to have your own computer. It doesn't have to be super powerful, but you need one and it should run on Linux or Mac OSX. If it runs on Windows, we will help you to install Linux.

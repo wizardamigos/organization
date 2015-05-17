@@ -5,10 +5,10 @@
 
 ## Come, learn to code with us.
 
-Wizard Amigos Institute invites you to join its co-learning programming sessions in a friendly and playful atmosphere.
-Learn with us how to use state-of-the-art tools and methods to become a self-directed collaborative coder who co-creates the future using special magic programming wizardry.
+Wizard Amigos Institute is a programming school for children. Become a wizard and join our co-learning programming sessions in a friendly and playful atmosphere.
+Learn with us how to use state-of-the-art tools and methods. Become a self-directed collaborative programmer (=coder) and co-create the future using programming wizardry.
 
-Calling all wizards! If you are skilled in the ways of magic already, [lend your wizardly powers](#JOIN) to help :-)
+Calling all wizards! If you are skilled in the ways of wizardry already, [lend your magic powers](#JOIN) to help with mentoring.
 
 ---
 [](#german)

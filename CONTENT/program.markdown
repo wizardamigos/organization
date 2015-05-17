@@ -3,9 +3,9 @@
 [](#english)
 # Wizardry & Magic Spells
 
-## All aspects of magic interesting to a fresh wizard.
+## Everything a wizard needs to know
 
-We are going to try hard to make this learning journey exciting for all future wizard amigos and provide the following learning materials open source and under a free license, to help you master the magic spells to become an active problem solver:
+We promise to make this learning journey exciting for all future wizard amigos. Our learning-by-doing approach will help you get to know the right magic spells and prepare you to become an active problem solver. All our learning materials are open source and under a free license:
 * **[magic tools]( summary )**
   * [unix shell]( learningMaterials & screencasts ),
     [text editor]( learningMaterials & screencasts ) &
@@ -34,9 +34,9 @@ We are going to try hard to make this learning journey exciting for all future w
     [leveldb]( learningMaterials & screencasts ) &
     [regex]( learningMaterials & screencasts )
 
-We encourage you to pick your own projects. Come up with your own or join existing ones. We know, in the beginning this can be challenging, but no worries, we'll help you to explore :-)
+We also encourage all the participants to pick their own projects (but if they don't, no worries, we will help them find one or they will be able to join existing projects).
 
-Wizardry is serious business. After each session we will create a simple video summary for you to practice your magic spells at home and collaborate on projects with other wizards, because we believe in collaboration and a learning-by-doing approach.
+Wizardry is serious business. Higher-level wizards will create a simple video summary after each session so you can practice your magic spells at home and collaborate with other wizards.
 
 ---
 [](#german)
