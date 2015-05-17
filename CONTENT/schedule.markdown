@@ -1,17 +1,26 @@
 ---
-title: Schedule
-type: infobox
-tags:
-  - English
-  - German
-comment: goal - event emitter + bookmark bar app to subscribe
+{
+  "title"     : "Schedule",
+  "type"      : "infobox"
+  "languages" : [
+    "english",
+    "german"
+  ],
+  "roadmap"   : {
+    "summary"   : "goal - event emitter + bookmark bar app to subscribe",
+    "issues"    : []
+  },
+  "custom"    : {
+    "#!PayButton" : "<!-- html to replace the anchor with -->",
+  }  
+}
 ---
 
 ---
 [](#english)
 # Sessions of Wizardry
 
-## Come meet us and see if you like the magic we do. 
+## Come meet us and see if you like the magic we do.
 
 Currently we organize 2 sessions per week. Every magic session accepts **up to 10 learners** and is run by at least 2 higher-level wizards. We also offer everyone a **free trial session**. [Apply here](mailto:wizard@amigos.institute) and check if you like it.
 
@@ -25,9 +34,9 @@ Currently we organize 2 sessions per week. Every magic session accepts **up to 1
 | ------------------------- |:--------:|:-------------:|:---------:|:-----:| :----:| :--------:|
 | **Magic Sessions**            |  Monday  | (16:00-17:30) | [Co-Up coworking (Adalbertstr. 8)](https://www.google.de/maps/dir//co.up,+Adalbertstra%C3%9Fe+8,+10999+Berlin,+Deutschland/@52.50033,13.419786,17z/data=!4m12!1m3!3m2!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2sco.up!4m7!1m0!1m5!1m1!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2m2!1d13.419786!2d52.50033) | (4 x 1.5h) / month  |   120 EUR/month      | Pay button   |
 | **Magic Sessions**            |  Monday  | (17:30-19:00) | [Co-Up coworking (Adalbertstr. 8)](https://www.google.de/maps/dir//co.up,+Adalbertstra%C3%9Fe+8,+10999+Berlin,+Deutschland/@52.50033,13.419786,17z/data=!4m12!1m3!3m2!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2sco.up!4m7!1m0!1m5!1m1!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2m2!1d13.419786!2d52.50033) | (4 x 1.5h) / month  |   120 EUR/month      | Pay button   |
-| **Super Magic Sessions**      |  Monday  | (16:00-19:00) | [Co-Up coworking (Adalbertstr. 8)](https://www.google.de/maps/dir//co.up,+Adalbertstra%C3%9Fe+8,+10999+Berlin,+Deutschland/@52.50033,13.419786,17z/data=!4m12!1m3!3m2!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2sco.up!4m7!1m0!1m5!1m1!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2m2!1d13.419786!2d52.50033) | (4 x 3h) / month  |   240 EUR/month     | Pay button   |
+| **Super Magic Sessions**      |  Monday  | (16:00-19:00) | [Co-Up coworking (Adalbertstr. 8)](https://www.google.de/maps/dir//co.up,+Adalbertstra%C3%9Fe+8,+10999+Berlin,+Deutschland/@52.50033,13.419786,17z/data=!4m12!1m3!3m2!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2sco.up!4m7!1m0!1m5!1m1!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2m2!1d13.419786!2d52.50033) | (4 x 3h) / month  |   240 EUR/month     | [](#!PayButton)   |
 
-For each paid learner we will donate a certain amount to support our **Pay-what-you-can program**. If you can't afford to pay the full price, **[apply here](mailto:wizard@amigos.institute?Subject=Application:%20For%20the%20Pay-what-you-can%20program&Body=%0D%0A)** for Pay-what-you-can program. 
+For each paid learner we will donate a certain amount to support our **Pay-what-you-can program**. If you can't afford to pay the full price, **[apply here](mailto:wizard@amigos.institute?Subject=Application:%20For%20the%20Pay-what-you-can%20program&Body=%0D%0A)** for Pay-what-you-can program.
 
 ---
 [](#german)
