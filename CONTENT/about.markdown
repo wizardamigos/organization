@@ -55,7 +55,7 @@ If you want to know more, please checkout
 * [Wizard Amigos Institute Chat](https://gitter.im/wizardamigosinstitute/chat)
 
 ### Subscribe 
-* [Wizard Amigos Newsletter](<!-- Begin MailChimp Signup Form -->
+<!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
