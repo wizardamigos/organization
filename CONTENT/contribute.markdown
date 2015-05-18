@@ -1,5 +1,21 @@
-[//]: # (@TODO - make this file nice)
+---
+{
+  "title"     : "Contribute",
+  "type"      : "infobox"
+  "languages" : [
+    "english",
+    "german"
+  ],
+  "roadmap"   : {
+    "summary"   : "",
+    "issues"    : []
+  },
+  "custom"    : {}  
+}
+---
 
+---
+[](#english)
 # Contribute
 
 ## Mad Science
@@ -21,3 +37,9 @@ Coding Amigos Workshops / Bring Coding Amigos to your Community (school etc.) =>
 - description
 - no. of kids
 => Request to organize group
+
+---
+[](#german)
+# @TODO
+
+---

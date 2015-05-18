@@ -1,3 +1,18 @@
+---
+{
+  "title"     : "Support",
+  "type"      : "infobox"
+  "languages" : [
+    "english",
+    "german"
+  ],
+  "roadmap"   : {
+    "summary"   : "",
+    "issues"    : []
+  },
+  "custom"    : {}  
+}
+---
 
 ---
 [](#english)
@@ -5,7 +20,7 @@
 
 ## We teach children computer programming and we need your help to continue with our mission.
 
-Are you a tech company, school, foundation or magic somebody who can help us? 
+Are you a tech company, school, foundation or magic somebody who can help us?
 
 Wizard Amigos Institute is supported by individuals and companies who believe that children all over Germany should be able to access computer science early in their education. We rely on the support of our communities. All fundraising efforts help us teach another child to code.
 
@@ -28,6 +43,7 @@ Want to brainstorm? **[Contact us](mailto:wizard@amigos.institute?Subject=Brains
 
 ---
 [](#german)
+# @TODO
 # Unterstütze uns
 
 ## Wir bringen Kindern bei Computer zu programmieren. Bitte unterstütze uns damit wir weiterhin Kindern in ganz Deutschland das *coden* beibringen können.

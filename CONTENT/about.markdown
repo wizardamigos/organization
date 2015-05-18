@@ -1,9 +1,25 @@
-[//]: # (@TODO - make this file nice)
+---
+{
+  "title"     : "About",
+  "type"      : "infobox"
+  "languages" : [
+    "english",
+    "german"
+  ],
+  "roadmap"   : {
+    "summary"   : "",
+    "issues"    : []
+  },
+  "custom"    : {}  
+}
+---
 
-# About 
+---
+[](#english)
+# About
 
 ## Our vision
-Wizard Amigos Institute is on a mission to empower kids with programming skills for making social change! 
+Wizard Amigos Institute is on a mission to empower kids with programming skills for making social change!
 
 With wizard amigos workshops
 Kids will be able to:
@@ -16,7 +32,7 @@ Tech Companies will be able to:
 - identify and access market opportunities for educational applications and classroom integration of new products.
 
 Mentors will be able to:
-- continue learning 
+- continue learning
 - get paid for sharing their skills with kids
 - be part of community of continuous learners and get help with getting their projects off the ground
 
@@ -54,7 +70,7 @@ If you want to know more, please checkout
 * [Email](mailto:wizard@amigos.institute)
 * [Wizard Amigos Institute Chat](https://gitter.im/wizardamigosinstitute/chat)
 
-### Subscribe 
+### Subscribe
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
 <form action="//institute.us10.list-manage.com/subscribe/post?u=bd13e8f9c3477f7fc74c55030&amp;id=6feca0b2d4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -69,3 +85,10 @@ If you want to know more, please checkout
 <!--End mc_embed_signup-->
 
 [//]: # (@TODO: add "Impressum", "Address", "TaxNo.", ...)
+
+
+---
+[](#german)
+# @TODO
+
+---

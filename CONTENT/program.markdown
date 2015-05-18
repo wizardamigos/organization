@@ -1,3 +1,18 @@
+---
+{
+  "title"     : "Program",
+  "type"      : "infobox"
+  "languages" : [
+    "english",
+    "german"
+  ],
+  "roadmap"   : {
+    "summary"   : "",
+    "issues"    : []
+  },
+  "custom"    : {}  
+}
+---
 
 ---
 [](#english)
@@ -40,6 +55,7 @@ Wizardry is serious business. Higher-level wizards will create a simple video su
 
 ---
 [](#german)
+# @TODO
 # Zauberei & Zaubersprüche
 
 ## Alle Aspekte der Magie die für einen neuen Zauberer interessant sind.
