@@ -1,3 +1,18 @@
+---
+{
+  "title"     : "Requirements",
+  "type"      : "infobox"
+  "languages" : [
+    "english",
+    "german"
+  ],
+  "roadmap"   : {
+    "summary"   : "",
+    "issues"    : []
+  },
+  "custom"    : {}  
+}
+---
 
 ---
 [](#english)
@@ -13,6 +28,7 @@
 If you are not sure whether you should apply, contact us and we will quickly send you a reply.
 ---
 [](#german)
+# @TODO
 # Freischaltungszauber
 
 ## Voraussetzung  die für angehender Zauberer hilfreich sind

@@ -1,3 +1,18 @@
+---
+{
+  "title"     : "Pitch",
+  "type"      : "infobox"
+  "languages" : [
+    "english",
+    "german"
+  ],
+  "roadmap"   : {
+    "summary"   : "",
+    "issues"    : []
+  },
+  "custom"    : {}  
+}
+---
 
 ---
 [](#english)
@@ -12,6 +27,7 @@ Calling all wizards! If you are skilled in the ways of wizardry already, [lend y
 
 ---
 [](#german)
+# @TODO
 # Willkommen, Wizard Amigo :-)
 
 ## Komm, lern mit uns das Programmieren.
