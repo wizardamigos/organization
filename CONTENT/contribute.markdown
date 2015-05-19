@@ -15,7 +15,7 @@
 ---
 
 ---
-[](#english)
+[](@english)
 # Contribute
 
 ## Mad Science
@@ -39,7 +39,7 @@ Coding Amigos Workshops / Bring Coding Amigos to your Community (school etc.) =>
 => Request to organize group
 
 ---
-[](#german)
+[](@german)
 # @TODO
 
 ---

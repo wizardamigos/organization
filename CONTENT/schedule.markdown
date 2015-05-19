@@ -17,7 +17,7 @@
 ---
 
 ---
-[](#english)
+[](@english)
 # Sessions of Wizardry
 
 ## Come meet us and see if you like the magic we do.
@@ -39,7 +39,7 @@ Currently we organize 2 sessions per week. Every magic session accepts **up to 1
 For each paid learner we will donate a certain amount to support our **Pay-what-you-can program**. If you can't afford to pay the full price, **[apply here](mailto:wizard@amigos.institute?Subject=Application:%20For%20the%20Pay-what-you-can%20program&Body=%0D%0A)** for Pay-what-you-can program.
 
 ---
-[](#german)
+[](@german)
 # @TODO
 # Sitzungen der Zauberei
 

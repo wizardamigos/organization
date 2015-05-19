@@ -15,7 +15,7 @@
 ---
 
 ---
-[](#english)
+[](@english)
 # News
 
 ## All aspects of magic interesting to a fresh wizard.
@@ -25,7 +25,7 @@ Our next free trial session will take place on [Monday, 4pm @ co_up](#Calendar).
 [//]: # (@TODO - integrate twitter feed later)
 
 ---
-[](#german)
+[](@german)
 # @TODO
 # Aktuelles
 

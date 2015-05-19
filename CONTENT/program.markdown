@@ -15,7 +15,7 @@
 ---
 
 ---
-[](#english)
+[](@english)
 # Wizardry & Magic Spells
 
 ## Everything a wizard needs to know
@@ -54,7 +54,7 @@ We also encourage all the participants to pick their own projects (but if they d
 Wizardry is serious business. Higher-level wizards will create a simple video summary after each session so you can practice your magic spells at home and collaborate with other wizards.
 
 ---
-[](#german)
+[](@german)
 # @TODO
 # Zauberei & Zaubersprüche
 

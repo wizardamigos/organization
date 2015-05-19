@@ -15,7 +15,7 @@
 ---
 
 ---
-[](#english)
+[](@english)
 # Support us
 
 ## We teach children computer programming and we need your help to continue with our mission.
@@ -42,7 +42,7 @@ If so, **PLEASE** support us so we can diversify and prepare your next generatio
 Want to brainstorm? **[Contact us](mailto:wizard@amigos.institute?Subject=Brainstorm)** to see what we can do together.
 
 ---
-[](#german)
+[](@german)
 # @TODO
 # Unterstütze uns
 
