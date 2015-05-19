@@ -26,6 +26,7 @@
 * If you are not sure whether you should apply, [contact us](mailto:wizard@amigos.institute) and we will be happy to help you find out.
 
 If you are not sure whether you should apply, contact us and we will quickly send you a reply.
+
 ---
 [](@german)
 # @TODO
