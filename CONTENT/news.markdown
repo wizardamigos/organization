@@ -1,7 +1,7 @@
 ---
 {
   "title"     : "News",
-  "type"      : "infobox"
+  "type"      : "infobox",
   "languages" : [
     "english",
     "german"

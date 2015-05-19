@@ -1,7 +1,7 @@
 ---
 {
   "title"     : "Program",
-  "type"      : "infobox"
+  "type"      : "infobox",
   "languages" : [
     "english",
     "german"
