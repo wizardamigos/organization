@@ -1,7 +1,7 @@
 ---
 {
   "title"     : "Requirements",
-  "type"      : "infobox"
+  "type"      : "infobox",
   "languages" : [
     "english",
     "german"

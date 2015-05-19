@@ -1,7 +1,7 @@
 ---
 {
   "title"     : "About",
-  "type"      : "infobox"
+  "type"      : "infobox",
   "languages" : [
     "english",
     "german"

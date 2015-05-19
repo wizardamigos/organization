@@ -1,7 +1,7 @@
 ---
 {
   "title"     : "Contribute",
-  "type"      : "infobox"
+  "type"      : "infobox",
   "languages" : [
     "english",
     "german"
