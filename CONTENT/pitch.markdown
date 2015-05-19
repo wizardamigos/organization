@@ -15,7 +15,7 @@
 ---
 
 ---
-[](#english)
+[](@english)
 # Welcome, Wizard Amigo :-)
 
 ## Come, learn to code with us.
@@ -26,7 +26,7 @@ Learn with us how to use state-of-the-art tools and methods. Become a self-direc
 Calling all wizards! If you are skilled in the ways of wizardry already, [lend your magic powers](#JOIN) to help with mentoring.
 
 ---
-[](#german)
+[](@german)
 # @TODO
 # Willkommen, Wizard Amigo :-)
 

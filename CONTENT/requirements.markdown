@@ -15,7 +15,7 @@
 ---
 
 ---
-[](#english)
+[](@english)
 # Unlocking Charm
 
 ## Who is Wizard Amigos Institute for
@@ -27,7 +27,7 @@
 
 If you are not sure whether you should apply, contact us and we will quickly send you a reply.
 ---
-[](#german)
+[](@german)
 # @TODO
 # Freischaltungszauber
 

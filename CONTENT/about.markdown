@@ -15,7 +15,7 @@
 ---
 
 ---
-[](#english)
+[](@english)
 # About
 
 ## Our vision
@@ -88,7 +88,7 @@ If you want to know more, please checkout
 
 
 ---
-[](#german)
+[](@german)
 # @TODO
 
 ---
