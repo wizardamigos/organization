@@ -10,7 +10,7 @@
     "summary"   : "",
     "issues"    : []
   },
-  "custom"    : {}  
+  "custom"    : {}
 }
 ---
 
