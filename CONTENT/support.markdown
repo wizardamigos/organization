@@ -20,13 +20,13 @@
 [](@english)
 # Support us
 
-## We teach children computer programming and we need your help to continue with our mission.
+## We need your help to spread the literacy of the future
 
-Are you a tech company, school, foundation or magic somebody who can help us?
+**Are you a tech company, school, foundation or magic somebody who can help us?**
 
-Wizard Amigos Institute is supported by individuals and companies who believe that children all over Germany should be able to access computer science early in their education. We rely on the support of our communities. All fundraising efforts help us teach another child to code.
+Wizard Amigos Institute is supported by individuals and companies who believe that children all over Germany should be able to access computer science early in their education. We rely on the support of our communities. All fundraising efforts help us teach another more people to code.
 
-Sponsor a child to learn to code!  
+Sponsor 1+ slots to learn to code!  
 4 x 1.5h over 1 month= 120EUR/child.
 
 [{{Sponsor Button}}](#!SponsorButton)
@@ -40,24 +40,24 @@ Want to brainstorm? **[Contact us](mailto:wizard@amigos.institute?Subject=Brains
 
 ---
 [](@german)
-# @TODO
 # Unterstütze uns
 
-## Wir bringen Kindern bei Computer zu programmieren. Bitte unterstütze uns damit wir weiterhin Kindern in ganz Deutschland das *coden* beibringen können.
+## Wir brauchen deine Unterstützung um die Alphabetisierung der Zukunft voranzutreiben
 
-Das Wizard Amigos Institut wird von Privatpersonen und Unternehmen
-unterstützt, die mit uns einer Meinung sind, dass Kinder in ganz Deutschland möglichst früh in ihrer Bildung damit beginnen können sich der digitalen Alphabetisierung anzuschließen. Wir sind auf die Unterstützung unserer Gemeinschaft angewiesen. Alle Mühen der Spendenerhebung helfen uns einem weiteren Kind das Programmieren beizubringen.
+**Stehst du in Verbindung mit einem Unternehmen, einer Schule, einer Stiftung oder bist du ein magischer jemand der uns helfen kann?**
 
-Unterstütze ein Kind dabei das Programmieren zu lernen!  
+Das Wizard Amigos Institut wird von Privatpersonen und Unternehmen unterstützt, die mit uns einer Meinung sind, dass Kinder in ganz Deutschland möglichst früh in ihrer Bildung damit beginnen können sich der digitalen Alphabetisierung anzuschließen. Wir sind auf die Unterstützung unserer Gemeinschaft angewiesen. Alle Mühen der Spendenerhebung helfen uns dabei mehr Menschen das Programmieren beizubringen.
+
+Sponsere 1+ Plätze in unserem Lernprogramm!  
 4 x 1,5h pro Monat = 120 EUR / Kind.
 
 [{{Sponsor Button}}](#!SponsorButton)
 
 ## Unternehmen!
 
-Ist dein Unternehmen technologisch geprägt?  
-Ist die Existenz und das Unternehmenswachstum auf Programmierer angewiesen?  
-Ist dies der Fall, **BITTE** unterstütze uns, damit wir uns diversifizieren können und die nächsten Generation von Angestellten und Partnern vorbereiten können. Wir stellen sicher, dass dein Unternehmen im Gegenzug von uns genannt und unterstützt wird.  
-Lust mit uns zu brainstormen? **[Schreib uns](mailto:wizard@amigos.institute?Subject=Brainstorm)** um wir sehen was wir gemeinsam tun können.
+Spezieller Aufruf an alle Technologieunternehmen!
+Ist dein Unternehmen um zu bestehen und zu wachsen auf Programmierer angewiesen?  
+Falls ja, **BITTE** unterstütze uns, damit wir uns diversifizieren können und um die nächsten Generation von Angestellten und Partnern vorzubereiten. Wir stellen sicher, dass dein Unternehmen im Gegenzug von uns genannt und unterstützt wird.  
+Lust mit uns zu brainstormen? **[Schreib uns](mailto:wizard@amigos.institute?Subject=Brainstorm)** und wir sehen was wir gemeinsam tun können.
 
 ---
