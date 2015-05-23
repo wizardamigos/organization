@@ -1,23 +1,39 @@
+---
+{
+  "title"     : "Pitch",
+  "type"      : "infobox",
+  "languages" : [
+    "english",
+    "german"
+  ],
+  "roadmap"   : {
+    "summary"   : "",
+    "issues"    : []
+  },
+  "custom"    : {}
+}
+---
 
 ---
-[](#english)
+[](@english)
 # Welcome, Wizard Amigo :-)
 
 ## Come, learn to code with us.
 
-Wizard Amigos Institute is a programming school for children. Become a wizard and join our co-learning programming sessions in a friendly and playful atmosphere.
+You can learn programming with the Wizard Amigos Institute. Become a wizard and join our co-learning programming sessions in a friendly and playful atmosphere.
 Learn with us how to use state-of-the-art tools and methods. Become a self-directed collaborative programmer (=coder) and co-create the future using programming wizardry.
 
-Calling all wizards! If you are skilled in the ways of wizardry already, [lend your magic powers](#JOIN) to help with mentoring.
+Calling all wizards! If you are skilled in the ways of wizardry already, [lend your magic powers](https://gitter.im/wizardamigosinstitute/chat) and help with mentoring.
 
 ---
-[](#german)
+[](@german)
 # Willkommen, Wizard Amigo :-)
 
 ## Komm, lern mit uns das Programmieren.
 
-Das Wizard Amigos Institut lädt dich zu seinen kollaborativen Programmier-Lernsessions in freundlicher und spielerischer Atmosphäre ein. Erlerne mit uns die Nutzung hochmoderner Methoden und digitaler Werkzeuge um als selbstbestimmter kollaborativer Programmierer unter Nutzung spezieller magischer Kodierzauberei die Zukunft mitzugestalten.
+Im Wizard Amigos Institut kannst du das Programmieren lernen. Werde ein Zauberer und schließe dich unseren kollaborativen Programmier-Lernsessions in freundlicher und spielerischer Atmosphäre an.
+Erlerne mit uns die Nutzung hochmoderner Methoden und digitaler Werkzeuge. Werde ein selbstbestimmter kollaborativer Programmierer und ko-gestalte die Zukunft.
 
-Aufruf an alle Zauberer! Wenn du mit der Magie bereits bestens Vertraut bist, hilf mit und [leihe uns deine magischen Fähigkeiten](#JOIN) :-)
+Aufruf an alle Zauberer! Wenn du mit der Magie bereits bestens Vertraut bist, [leihe uns deine magischen Fähigkeiten](https://gitter.im/wizardamigosinstitute/chat) und hilf als Mentor.
 
 ---
