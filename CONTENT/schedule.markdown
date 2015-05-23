@@ -11,7 +11,7 @@
     "issues"    : []
   },
   "custom"    : {
-    "#!PayButton" : "<form action='https://www.paypal.com/cgi-bin/webscr' method='post' target='_top'><input type='hidden' name='cmd' value='_s-xclick'><input type='hidden' name='hosted_button_id' value='XBL642GPC374S'><input type='image' src='https://www.paypalobjects.com/en_US/i/btn/btn_subscribe_SM.gif' border='0' name='submit' alt='PayPal - The safer, easier way to pay online!'><img alt='' border='0'src='https://www.paypalobjects.com/en_US/i/scr/pixel.gif' width='1' height='1'></form>"
+    "#!PayButton" : "<form action='https://www.paypal.com/cgi-bin/webscr' method='post' target='_top'><input type='hidden' name='cmd' value='_s-xclick'><input type='hidden' name='hosted_button_id' value='XBL642GPC374S'><table><tr><td><input type='hidden' name='on0' value='Sessions of Wizardry'>Sessions of Wizardry</td></tr><tr><td><select name='os0'>	<option value='4 x 1,5h / month (120 €)'>4 x 1,5h / month (120 €) </option>	<option value='4 x 3h /month (240 €)'>4 x 3h /month (240 €) </option></select> </td></tr></table><input type='image' src='https://www.paypalobjects.com/en_US/i/btn/btn_subscribe_SM.gif' border='0' name='submit'alt='PayPal - The safer, easier way to pay online!'><img alt='' border='0' src='https://www.paypalobjects.com/en_US/i/scr/pixel.gif' width='1' height='1'></form>"
   }  
 }
 ---
