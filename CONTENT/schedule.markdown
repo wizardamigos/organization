@@ -31,11 +31,11 @@ Currently we organize 2 sessions per week. Every magic session accepts **up to 1
 [//]: # (@TODO - until seats are taken (6 left))
 [//]: # (@TODO - add iCal Format)
 
-| Name                      | Days     | Times         | Locations | Terms  | Price | Subscribe |
-| ------------------------- |:--------:|:-------------:|:---------:|:-----:| :----:| :--------:|
-| **Magic Sessions**            |  Monday  | (17:00-18:30) | [Co-Up coworking (Adalbertstr. 8)][address] | (4 x 1.5h) / month  |   120 EUR/month      | [{{Pay Button}}](#!PayButton1)   |
-| **Magic Sessions**            |  Monday  | (18:30-20:00) | [Co-Up coworking (Adalbertstr. 8)][address] | (4 x 1.5h) / month  |   120 EUR/month      | [{{Pay Button}}](#!PayButton1)   |
-| **Super Magic Sessions**      |  Monday  | (17:00-20:00) | [Co-Up coworking (Adalbertstr. 8)][address] | (4 x 3h) / month  |   240 EUR/month     | [{{Pay Button}}](#!PayButton2)   |
+| Name                |  Times               | Locations | Subscribe |
+| ------------------- |:--------------------:|:---------:|:-----:| :----:| :--------:|
+| **Magic Sessions**  |  Monday (17:00-18:30)| [Co-Up coworking (Adalbertstr. 8)][address]  | [{{Pay Button}}](#!PayButton1)   |
+| **Magic Sessions**  |  Monday (18:30-20:00)| [Co-Up coworking (Adalbertstr. 8)][address]  | [{{Pay Button}}](#!PayButton1)   |
+| **Super Magic Sessions** | Monday (17:00-20:00) | [Co-Up coworking (Adalbertstr. 8)][address] |  [{{Pay Button}}](#!PayButton2)   |
 
 For each paid learner we will donate a certain amount to support our **Pay-what-you-can program**. If you can't afford to pay the full price, **[apply here](mailto:wizard@amigos.institute?Subject=Application:%20For%20the%20Pay-what-you-can%20program&Body=%0D%0A)** for Pay-what-you-can program.
 
@@ -48,11 +48,11 @@ For each paid learner we will donate a certain amount to support our **Pay-what-
 Aktuell organisieren wir 2 Sitzungen pro Woche. Jede Zaubersitzung hat Platz für **bis zu 10 Lernende** und wird von mindestens 2 erfahreneren Zauberern begleitet. Wir bieten jedem eine **kostenlose Probestunde**. [Melde dich hier an](mailto:wizard@amigos.institute) und finde heraus ob es dir gefällt.
 
 
-| Name                      | Tage     | Zeiten         | Ort | Konditionen  | Preis | Anmelden |
-| ------------------------- |:--------:|:-------------:|:---------:|:-----:| :----:| :--------:|
-| **Zaubersitzungen**            |  Montag  | (17:00-18:30) | [Co-Up coworking (Adalbertstr. 8)][address] | (4 x 1,5 Std.) / Monat  |   120 EUR / Monat      | [{{Pay Button}}](#!PayButton1)   |
-| **Zaubersitzungen**            |  Montag  | (18:30-20:00) | [Co-Up coworking (Adalbertstr. 8)][address] | (4 x 1,5 Std.) / Monat  |   120 EUR / Monat      | [{{Pay Button}}](#!PayButton1)   |
-| **Super Zaubersitzungen**      |  Montag  | (17:00-20:00) | [Co-Up coworking (Adalbertstr. 8)][address] | (4 x 3h) / Monat  |   240 EUR / Monat     | [{{Pay Button}}](#!PayButton2)   |
+| Name                     | Zeiten   | Ort | Anmelden |
+| ------------------------ |:--------:|:-------------:|:---------:|:-----:| :----:| :--------:|
+| **Zaubersitzungen**      | Montag (17:00-18:30) | [Co-Up coworking (Adalbertstr. 8)][address] | [{{Pay Button}}](#!PayButton1)   |
+| **Zaubersitzungen**      | Montag (18:30-20:00) | [Co-Up coworking (Adalbertstr. 8)][address] | [{{Pay Button}}](#!PayButton1)   |
+| **Super Zaubersitzungen**   | Montag (17:00-20:00) | [Co-Up coworking (Adalbertstr. 8)][address] | [{{Pay Button}}](#!PayButton2)   |
 
 Für jeden bezahlten Lernplatz spenden wir persönlich um unser **Bezahl-soviel-du-kannst Programm** zu unterstützen. Wenn du dir den vollen Preis nicht leisten kannst, dann **[Bewirb dich hier](mailto:wizard@amigos.institute?Subject=Application:%20For%20the%20Pay-what-you-can%20program&Body=%0D%0A)** für unser Bezahl-soviel-du-kannst Programm.
 
