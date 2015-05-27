@@ -21,15 +21,15 @@
 ## Everything a wizard needs to know
 
 We promise to make this learning journey exciting for all future wizard amigos. Our learning-by-doing approach will help you get to know the right magic spells to become an active problem solver. All our learning materials are open source and under a free license:
-* **[magic tools](magictools)**
+[Magic tools](magictools)
   * [unix shell](unixshell), [text editor](texteditor) & [web browser](webbrowser)
-* **[collaboration channels](collaborationchannels)**
+[Collaboration channels](collaborationchannels)
   * [github](github), [waffle](waffle), [codepen](codepen), [gitter](gitter), [twitter](twitter) & [medium](medium)
-* **[markup languages](markuplanguages)**
+[Markup languages](markuplanguages)
   * [markdown](markdown), [html](html), [svg](svg) & [css](cs)
-* **[devops](devops)**
+[Devops](devops)
   * [npm](npm), [atomify](atomify), [git](git), [dns](dns) & [ssh](ssh)
-* **[coding wizardry](codingwizardry)**
+[Coding wizardry](codingwizardry)
   * [node.js](node.js), [javascript](javascript), [webapi](web api), [leveldb](leveldb) & [regex](regex)
 
 We also encourage all the participants to pick their own projects (but if they don't, no worries, we will help them find one or they will be able to join existing projects).
@@ -43,15 +43,15 @@ Wizardry is serious business. Higher-level wizards will create a simple video su
 ## Alles was Wizard wissen muss
 
 Wir geben uns alle Mühe die Lernreise aufregend für alle zukünftigen Wizard Amigos zu machen. Unsere lernen-durch-handeln Methodik hilft dir dabei die richtigen Zaubersprüche kennenzulernen um ein aktiver Problemlöser zu werden. Alle unsere Lernmaterialien sind quelloffen und unter freier Lizenz:
-* **[magic tools](magictools)**
+[Magic tools](magictools)
   * [unix shell](unixshell), [text editor](texteditor) & [web browser](webbrowser)
-* **[collaboration channels](collaborationchannels)**
+[Collaboration channels](collaborationchannels)
   * [github](github), [waffle](waffle), [codepen](codepen), [gitter](gitter), [twitter](twitter) & [medium](medium)
-* **[markup languages](markuplanguages)**
+[Markup languages](markuplanguages)
   * [markdown](markdown), [html](html), [svg](svg) & [css](cs)
-* **[devops](devops)**
+[Devops](devops)
   * [npm](npm), [atomify](atomify), [git](git), [dns](dns) & [ssh](ssh)
-* **[coding wizardry](codingwizardry)**
+[Coding wizardry](codingwizardry)
   * [node.js](node.js), [javascript](javascript), [webapi](web api), [leveldb](leveldb) & [regex](regex)
 
 Jeder Teilnehmer ist dazu aufgerufen eigene Projekte zu wählen. (Falls nicht, keine Sorge, wir helfen jedem eins zu finden oder in einem existierenden Projekt mitzuhelfen).
