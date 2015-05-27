@@ -31,14 +31,14 @@ Currently we organize 2 sessions per week. Every magic session accepts **up to 1
 [//]: # (@TODO - until seats are taken (6 left))
 [//]: # (@TODO - add iCal Format)
 
-| Name                     |  Times               |          Locations          |              Subscribe           |
-| :----------------------: |:--------------------:|:---------------------------:|:--------------------------------:| 
+| Name                     |  Time               |          Location          |              Subscribe           |
+| :----------------------: |:-------------------:|:--------------------------:|:--------------------------------:| 
 |                          |                      |                             |                                  |
-| **Magic Sessions** |  Mondays 17:00-18:30 | [Co-Up coworking][address]  | [{{Pay Button}}](#!PayButton1)   |
+| **Magic Sessions** |  Mon 17:00-18:30 | [CoUp coworking][address]  | [{{Pay Button}}](#!PayButton1)   |
 |                          |                      |                             |                                  |
-| **Magic Sessions** |  Mondays 18:30-20:00 | [Co-Up coworking][address]  | [{{Pay Button}}](#!PayButton1)   |
+| **Magic Sessions** |  Mon 18:30-20:00 | [CoUp coworking][address]  | [{{Pay Button}}](#!PayButton1)   |
 |                          |                      |                             |                                  |
-| **Super Magic Sessions** | Mondays 17:00-20:00  | [Co-Up coworking][address]  |  [{{Pay Button}}](#!PayButton2)  |
+| **Super Magic Sessions** | Mon 17:00-20:00  | [CoUp coworking][address]  |  [{{Pay Button}}](#!PayButton2)  |
 
 For each paid learner we will donate a certain amount to support our **Pay-what-you-can program**. If you can't afford to pay the full price, **[apply here](mailto:wizard@amigos.institute?Subject=Application:%20For%20the%20Pay-what-you-can%20program&Body=%0D%0A)** for Pay-what-you-can program.
 
@@ -51,14 +51,14 @@ For each paid learner we will donate a certain amount to support our **Pay-what-
 Aktuell organisieren wir 2 Sitzungen pro Woche. Jede Zaubersitzung hat Platz für **bis zu 10 Lernende** und wird von mindestens 2 erfahreneren Zauberern begleitet. Wir bieten jedem eine **kostenlose Probestunde**. [Melde dich hier an](mailto:wizard@amigos.institute) und finde heraus ob es dir gefällt.
 
 
-| Name                        |        Zeiten       |             Ort            |             Anmelden             |
+| Name                        |        Zeit      |             Ort            |             Anmelden             |
 | :-------------------------: |:-------------------:|:--------------------------:|:--------------------------------:|
 |                             |                     |                            |                                  |
-| **Zauberkurse** | Montags 17:00-18:30 |[Co-Up coworking][address] |[{{Pay Button}}](#!PayButton1)   |
+| **Zauberkurse** | Mo. 17:00-18:30 |[CoUp coworking][address] |[{{Pay Button}}](#!PayButton1)   |
 |                             |                     |                            |                                  |
-| **Zauberkurse** | Montags 18:30-20:00 |[Co-Up coworking][address] |[{{Pay Button}}](#!PayButton1)   |
+| **Zauberkurse** | Mo. 18:30-20:00 |[CoUp coworking][address] |[{{Pay Button}}](#!PayButton1)   |
 |                             |                     |                            |                                  |
-| **Superzauberkurse**|Montags 17:00-20:00|[Co-Up coworking][address]|[{{Pay Button}}](#!PayButton2) |
+| **Super Zauberkurse**|Mo. 17:00-20:00|[CoUp coworking][address]|[{{Pay Button}}](#!PayButton2) |
 
 Für jeden bezahlten Lernplatz spenden wir persönlich um unser **Bezahl-soviel-du-kannst Programm** zu unterstützen. Wenn du dir den vollen Preis nicht leisten kannst, dann **[Bewirb dich hier](mailto:wizard@amigos.institute?Subject=Application:%20For%20the%20Pay-what-you-can%20program&Body=%0D%0A)** für unser Bezahl-soviel-du-kannst Programm.
 
