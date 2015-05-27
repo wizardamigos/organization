@@ -23,7 +23,7 @@
 
 ## Come meet us and see if you like the magic we do.
 
-Currently we organize 2 sessions per week. Every magic session accepts **up to 10 learners** and is run by at least 2 higher-level wizards. We also offer everyone a **free trial session**. [Apply here](mailto:wizard@amigos.institute) and check if you like it.
+Every magic session accepts up to 10 learners and is run by at least 2 higher-level wizards. Apply here for a [Free Trial Session](mailto:wizard@amigos.institute) and check if you like what we do.
 
 
 [//]: # (@TODO - next free workshop - sunday)
@@ -31,13 +31,16 @@ Currently we organize 2 sessions per week. Every magic session accepts **up to 1
 [//]: # (@TODO - until seats are taken (6 left))
 [//]: # (@TODO - add iCal Format)
 
-| Name                      | Days     | Times         | Locations | Terms  | Price | Subscribe |
-| ------------------------- |:--------:|:-------------:|:---------:|:-----:| :----:| :--------:|
-| **Magic Sessions**            |  Monday  | (17:00-18:30) | [Co-Up coworking (Adalbertstr. 8)](https://www.google.de/maps/dir//co.up,+Adalbertstra%C3%9Fe+8,+10999+Berlin,+Deutschland/@52.50033,13.419786,17z/data=!4m12!1m3!3m2!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2sco.up!4m7!1m0!1m5!1m1!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2m2!1d13.419786!2d52.50033) | (4 x 1.5h) / month  |   120 EUR/month      | [{{Pay Button}}](#!PayButton1)   |
-| **Magic Sessions**            |  Monday  | (18:30-20:00) | [Co-Up coworking (Adalbertstr. 8)](https://www.google.de/maps/dir//co.up,+Adalbertstra%C3%9Fe+8,+10999+Berlin,+Deutschland/@52.50033,13.419786,17z/data=!4m12!1m3!3m2!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2sco.up!4m7!1m0!1m5!1m1!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2m2!1d13.419786!2d52.50033) | (4 x 1.5h) / month  |   120 EUR/month      | [{{Pay Button}}](#!PayButton1)   |
-| **Super Magic Sessions**      |  Monday  | (17:00-20:00) | [Co-Up coworking (Adalbertstr. 8)](https://www.google.de/maps/dir//co.up,+Adalbertstra%C3%9Fe+8,+10999+Berlin,+Deutschland/@52.50033,13.419786,17z/data=!4m12!1m3!3m2!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2sco.up!4m7!1m0!1m5!1m1!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2m2!1d13.419786!2d52.50033) | (4 x 3h) / month  |   240 EUR/month     | [{{Pay Button}}](#!PayButton2)   |
+| Name                     |  Time               |          Location          |              Subscribe           |
+| :----------------------: |:-------------------:|:--------------------------:|:--------------------------------:| 
+|                          |                      |                             |                                  |
+| **Magic Sessions** |  Mon 17:00-18:30 | [CoUp coworking][address]  | [{{Pay Button}}](#!PayButton1)   |
+|                          |                      |                             |                                  |
+| **Magic Sessions** |  Mon 18:30-20:00 | [CoUp coworking][address]  | [{{Pay Button}}](#!PayButton1)   |
+|                          |                      |                             |                                  |
+| **Super Magic Sessions** | Mon 17:00-20:00  | [CoUp coworking][address]  |  [{{Pay Button}}](#!PayButton2)  |
 
-For each paid learner we will donate a certain amount to support our **Pay-what-you-can program**. If you can't afford to pay the full price, **[apply here](mailto:wizard@amigos.institute?Subject=Application:%20For%20the%20Pay-what-you-can%20program&Body=%0D%0A)** for Pay-what-you-can program.
+Wizard Amigos Institute recognizes that learners have varying financial needs. We strive to help the students who, even with personal sacrifices, are unable to meet the full tuition obligation. Learn about our **[financial aid and scholarship options.](mailto:wizard@amigos.institute?Subject=Financial%20aid%20and%20scholarship%20options&Body=%0D%0A)** 
 
 ---
 [](@german)
@@ -45,15 +48,20 @@ For each paid learner we will donate a certain amount to support our **Pay-what-
 
 ## Komm vorbei und finde heraus ob dir unsere Zauberei gefällt.
 
-Aktuell organisieren wir 2 Sitzungen pro Woche. Jede Zaubersitzung hat Platz für **bis zu 10 Lernende** und wird von mindestens 2 erfahreneren Zauberern begleitet. Wir bieten jedem eine **kostenlose Probestunde**. [Melde dich hier an](mailto:wizard@amigos.institute) und finde heraus ob es dir gefällt.
+Jede Zaubersitzung hat Platz für bis zu 10 Lernende und wird von mindestens 2 erfahreneren Zauberern begleitet. Melde dich hier für eine [kostenlose Probestunde](mailto:wizard@amigos.institute) und finde heraus ob es dir gefällt.
 
 
-| Name                      | Tage     | Zeiten         | Ort | Konditionen  | Preis | Anmelden |
-| ------------------------- |:--------:|:-------------:|:---------:|:-----:| :----:| :--------:|
-| **Zaubersitzungen**            |  Montag  | (17:00-18:30) | [Co-Up coworking (Adalbertstr. 8)](https://www.google.de/maps/dir//co.up,+Adalbertstra%C3%9Fe+8,+10999+Berlin,+Deutschland/@52.50033,13.419786,17z/data=!4m12!1m3!3m2!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2sco.up!4m7!1m0!1m5!1m1!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2m2!1d13.419786!2d52.50033) | (4 x 1,5 Std.) / Monat  |   120 EUR / Monat      | [{{Pay Button}}](#!PayButton1)   |
-| **Zaubersitzungen**            |  Montag  | (18:30-20:00) | [Co-Up coworking (Adalbertstr. 8)](https://www.google.de/maps/dir//co.up,+Adalbertstra%C3%9Fe+8,+10999+Berlin,+Deutschland/@52.50033,13.419786,17z/data=!4m12!1m3!3m2!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2sco.up!4m7!1m0!1m5!1m1!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2m2!1d13.419786!2d52.50033) | (4 x 1,5 Std.) / Monat  |   120 EUR / Monat      | [{{Pay Button}}](#!PayButton1)   |
-| **Super Zaubersitzungen**      |  Montag  | (17:00-20:00) | [Co-Up coworking (Adalbertstr. 8)](https://www.google.de/maps/dir//co.up,+Adalbertstra%C3%9Fe+8,+10999+Berlin,+Deutschland/@52.50033,13.419786,17z/data=!4m12!1m3!3m2!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2sco.up!4m7!1m0!1m5!1m1!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2m2!1d13.419786!2d52.50033) | (4 x 3h) / Monat  |   240 EUR / Monat     | [{{Pay Button}}](#!PayButton2)   |
+| Name                        |        Zeit      |             Ort            |             Anmelden             |
+| :-------------------------: |:-------------------:|:--------------------------:|:--------------------------------:|
+|                             |                     |                            |                                  |
+| **Zaubersession** | Mo. 17:00-18:30 |[CoUp coworking][address] |[{{Pay Button}}](#!PayButton1)   |
+|                             |                     |                            |                                  |
+| **Zaubersession** | Mo. 18:30-20:00 |[CoUp coworking][address] |[{{Pay Button}}](#!PayButton1)   |
+|                             |                     |                            |                                  |
+| **Super Zaubersession**|Mo. 17:00-20:00|[CoUp coworking][address]|[{{Pay Button}}](#!PayButton2) |
 
-Für jeden bezahlten Lernplatz spenden wir persönlich um unser **Bezahl-soviel-du-kannst Programm** zu unterstützen. Wenn du dir den vollen Preis nicht leisten kannst, dann **[Bewirb dich hier](mailto:wizard@amigos.institute?Subject=Application:%20For%20the%20Pay-what-you-can%20program&Body=%0D%0A)** für unser Bezahl-soviel-du-kannst Programm.
+Für jeden bezahlten Lernplatz spenden wir persönlich um unser **Pay-What-You-Can** Programm zu unterstützen. Wenn du dir den vollen Preis nicht leisten kannst, dann bewirb dich hier für unser **[Pay-What-You-Can Programm.](mailto:wizard@amigos.institute?Subject=Financial%20aid%20and%20scholarship%20options&Body=%0D%0A)** 
 
 ---
+
+[address]: https://www.google.de/maps/dir//co.up,+Adalbertstra%C3%9Fe+8,+10999+Berlin,+Deutschland/@52.50033,13.419786,17z/data=!4m12!1m3!3m2!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2sco.up!4m7!1m0!1m5!1m1!1s0x47a84e337e23d413:0x2cfd69e5a9f68f1a!2m2!1d13.419786!2d52.50033

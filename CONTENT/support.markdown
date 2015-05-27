@@ -26,17 +26,14 @@
 
 Wizard Amigos Institute is supported by individuals and companies who believe that children all over Germany should be able to access computer science early in their education. We rely on the support of our communities. All fundraising efforts help us teach another more people to code.
 
-Sponsor 1+ slots to learn to code!  
-4 x 1.5h over 1 month= 120EUR/child.
 
+**Sponsor 1+ learner!  
+4 x 1.5h over 1 month= 120€/child**
 [{{Sponsor Button}}](#!SponsorButton)
 
-## Companies
 
-Special call to tech companies!
-Does your company rely on computer programmers to exist and grow?  
-If so, **PLEASE** support us so we can diversify and prepare your next generation of employees and partners. We’ll make sure you get lots of exposure and support in return.  
 Want to brainstorm? **[Contact us](mailto:wizard@amigos.institute?Subject=Brainstorm)** to see what we can do together.
+
 
 ---
 [](@german)
@@ -44,20 +41,21 @@ Want to brainstorm? **[Contact us](mailto:wizard@amigos.institute?Subject=Brains
 
 ## Wir brauchen deine Unterstützung um die Alphabetisierung der Zukunft voranzutreiben
 
-**Stehst du in Verbindung mit einem Unternehmen, einer Schule, einer Stiftung oder bist du ein magischer jemand der uns helfen kann?**
+**Sind Sie ein Unternehmen, eine Schule, eine Stiftung oder ein magischer jemand der uns helfen kann?**
 
-Das Wizard Amigos Institut wird von Privatpersonen und Unternehmen unterstützt, die mit uns einer Meinung sind, dass Kinder in ganz Deutschland möglichst früh in ihrer Bildung damit beginnen können sich der digitalen Alphabetisierung anzuschließen. Wir sind auf die Unterstützung unserer Gemeinschaft angewiesen. Alle Mühen der Spendenerhebung helfen uns dabei mehr Menschen das Programmieren beizubringen.
+Das Wizard Amigos Institut wird von Privatpersonen und Unternehmen unterstützt, die mit uns einer Meinung sind, dass Kinder in ganz Deutschland möglichst früh in ihrer Bildung damit beginnen können sich der digitalen Alphabetisierung anzuschließen. 
 
-Sponsere 1+ Plätze in unserem Lernprogramm!  
-4 x 1,5h pro Monat = 120 EUR / Kind.
+Wir sind auf die Unterstützung unserer Gemeinschaft angewiesen. Alle Mühen der Spendenerhebung helfen uns dabei mehr Menschen das Programmieren beizubringen.
 
+
+**Sponsere 1+ Lernenden!  
+4 x 1,5 Std. pro Monat = 120€/Kind**
 [{{Sponsor Button}}](#!SponsorButton)
 
-## Unternehmen!
 
-Spezieller Aufruf an alle Technologieunternehmen!
-Ist dein Unternehmen um zu bestehen und zu wachsen auf Programmierer angewiesen?  
-Falls ja, **BITTE** unterstütze uns, damit wir uns diversifizieren können und um die nächsten Generation von Angestellten und Partnern vorzubereiten. Wir stellen sicher, dass dein Unternehmen im Gegenzug von uns genannt und unterstützt wird.  
 Lust mit uns zu brainstormen? **[Schreib uns](mailto:wizard@amigos.institute?Subject=Brainstorm)** und wir sehen was wir gemeinsam tun können.
+
+
+
 
 ---

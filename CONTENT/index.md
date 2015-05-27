@@ -4,12 +4,12 @@
   "CONTENT" : [
     "pitch",
     "news",
-    "requirements",
     "program",
+    "requirements",
     "schedule",
     "support",
-    "contribute",
-    "about"
+    "about",
+    "contribute"
   ]
 }
 ---
