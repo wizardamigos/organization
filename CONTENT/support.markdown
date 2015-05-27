@@ -41,7 +41,7 @@ Want to brainstorm? **[Contact us](mailto:wizard@amigos.institute?Subject=Brains
 
 ## Wir brauchen deine Unterstützung um die Alphabetisierung der Zukunft voranzutreiben
 
-**Stehst du in Verbindung mit einem Unternehmen, einer Schule, einer Stiftung oder bist du ein magischer jemand der uns helfen kann?**
+**Sind Sie ein Unternehmen, eine Schule, eine Stiftung oder ein magischer jemand der uns helfen kann?**
 
 Das Wizard Amigos Institut wird von Privatpersonen und Unternehmen unterstützt, die mit uns einer Meinung sind, dass Kinder in ganz Deutschland möglichst früh in ihrer Bildung damit beginnen können sich der digitalen Alphabetisierung anzuschließen. 
 
