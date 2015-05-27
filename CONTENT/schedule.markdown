@@ -23,7 +23,7 @@
 
 ## Come meet us and see if you like the magic we do.
 
-Currently we organize 2 sessions per week. Every magic session accepts **up to 10 learners** and is run by at least 2 higher-level wizards. We also offer everyone a **free trial session**. [Apply here](mailto:wizard@amigos.institute) and check if you like it.
+Every magic session accepts up to 10 learners and is run by at least 2 higher-level wizards. Apply here for a [Free Trial Session](mailto:wizard@amigos.institute) and check if you like what we do.
 
 
 [//]: # (@TODO - next free workshop - sunday)
@@ -48,17 +48,17 @@ Wizard Amigos Institute recognizes that learners have varying financial needs. W
 
 ## Komm vorbei und finde heraus ob dir unsere Zauberei gefällt.
 
-Aktuell organisieren wir 2 Sitzungen pro Woche. Jede Zaubersitzung hat Platz für **bis zu 10 Lernende** und wird von mindestens 2 erfahreneren Zauberern begleitet. Wir bieten jedem eine **kostenlose Probestunde**. [Melde dich hier an](mailto:wizard@amigos.institute) und finde heraus ob es dir gefällt.
+Jede Zaubersitzung hat Platz für bis zu 10 Lernende und wird von mindestens 2 erfahreneren Zauberern begleitet. Melde dich hier für eine [kostenlose Probestunde](mailto:wizard@amigos.institute) und finde heraus ob es dir gefällt.
 
 
 | Name                        |        Zeit      |             Ort            |             Anmelden             |
 | :-------------------------: |:-------------------:|:--------------------------:|:--------------------------------:|
 |                             |                     |                            |                                  |
-| **Zauberkurse** | Mo. 17:00-18:30 |[CoUp coworking][address] |[{{Pay Button}}](#!PayButton1)   |
+| **Zaubersession** | Mo. 17:00-18:30 |[CoUp coworking][address] |[{{Pay Button}}](#!PayButton1)   |
 |                             |                     |                            |                                  |
-| **Zauberkurse** | Mo. 18:30-20:00 |[CoUp coworking][address] |[{{Pay Button}}](#!PayButton1)   |
+| **Zaubersession** | Mo. 18:30-20:00 |[CoUp coworking][address] |[{{Pay Button}}](#!PayButton1)   |
 |                             |                     |                            |                                  |
-| **Super Zauberkurse**|Mo. 17:00-20:00|[CoUp coworking][address]|[{{Pay Button}}](#!PayButton2) |
+| **Super Zaubersession**|Mo. 17:00-20:00|[CoUp coworking][address]|[{{Pay Button}}](#!PayButton2) |
 
 Für jeden bezahlten Lernplatz spenden wir persönlich um unser **Pay-What-You-Can** Programm zu unterstützen. Wenn du dir den vollen Preis nicht leisten kannst, dann bewirb dich hier für unser **[Pay-What-You-Can Programm.](mailto:wizard@amigos.institute?Subject=Financial%20aid%20and%20scholarship%20options&Body=%0D%0A)** 
 
