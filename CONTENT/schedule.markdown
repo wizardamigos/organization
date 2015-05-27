@@ -40,7 +40,7 @@ Currently we organize 2 sessions per week. Every magic session accepts **up to 1
 |                          |                      |                             |                                  |
 | **Super Magic Sessions** | Mon 17:00-20:00  | [CoUp coworking][address]  |  [{{Pay Button}}](#!PayButton2)  |
 
-For each paid learner we will donate a certain amount to support our **Pay-What-You-Can program. If you can't afford to pay the full price, apply here for our **[Pay-What-You-Can program.](mailto:wizard@amigos.institute?Subject=Application:%20For%20the%20Pay-what-you-can%20program&Body=%0D%0A)** 
+Wizard Amigos Institute recognizes that learners have varying financial needs. We strive to help the students who, even with personal sacrifices, are unable to meet the full tuition obligation. Learn about our **[financial aid and scholarship options.](mailto:wizard@amigos.institute?Subject=Application:%20For%20the%20Pay-what-you-can%20program&Body=%0D%0A)** 
 
 ---
 [](@german)
