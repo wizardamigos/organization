@@ -21,9 +21,7 @@
 # About
 
 ## Learn more about us
-In early 2014 we started Coding Amigos Hackathons in Berlin. We organized over 70 events and co-learning workshops. Before that we participated in several groups: University Incubator, Social Media Week, Rails Girls, StartUp weekend, Open Tech School etc.
-
-During last year we have met a lot of coding learners and got to know several techniques for beginners and advanced learners. We realised we have enough experiences to bring this skills also to the youngest segment. And so the idea for programming institute was born. Read more about our [vision](https://github.com/wizardamigosinstitute/organization/blob/master/CONTENT/manifest.markdown).
+Wizard Amigos Institute is on a mission to empower people with programming skills for making social change and shape a better future for all of us! Read more about our [vision](https://github.com/wizardamigosinstitute/organization/blob/master/CONTENT/manifest.markdown) and [how it all started](https://github.com/wizardamigosinstitute/organization/blob/master/CONTENT/story.markdown).
 
 ## Current Team
 ### [@ninabreznik](https://twitter.com/ninabreznik)
@@ -41,8 +39,6 @@ During last year we have met a lot of coding learners and got to know several te
 * co-founder of [Wizard Amigos Institute](http://wizard.amigos.institute/)
 * co-founder of [Frappe](http://frappe-rheinmain.de/)
 
-**If you want to know more, please click here for [more details](https://github.com/wizardamigosinstitute/organisation/blob/master/README.md).**
-
 #### Follow Us or Subscribe
 [Twitter](https://twitter.com/wizardamigos)| [Facebook](https://www.facebook.com/wizardamigos) | [Github](https://github.com/wizardamigosinstitute)
 
@@ -50,6 +46,8 @@ During last year we have met a lot of coding learners and got to know several te
 
 #### Contact Us
 [Email](mailto:wizard@amigos.institute) [Wizard Amigos Institute Chat](https://gitter.im/wizardamigosinstitute/chat)
+
+**If you want to know more, please click here for [more details](https://github.com/wizardamigosinstitute/organisation/blob/master/README.md).**
 
 [//]: # (@TODO: add "Impressum", "Address", "TaxNo.", ...)
 
@@ -77,7 +75,6 @@ During last year we have met a lot of coding learners and got to know several te
 * Mitgründer von [Wizard Amigos Institute](http://wizard.amigos.institute/)
 * Mitgründer von [Frappe](http://frappe-rheinmain.de/)
 
-**Wenn du noch mehr erfahren möchtest, hier gibt es [mehr Details](https://github.com/wizardamigosinstitute/organisation/blob/master/README.md).**
 
 ### Folge uns oder Abonniere
 [Twitter](https://twitter.com/wizardamigos)|[Facebook](https://www.facebook.com/wizardamigos)|[Github](https://github.com/wizardamigosinstitute)
@@ -86,5 +83,7 @@ During last year we have met a lot of coding learners and got to know several te
 
 #### Schreib uns
 [Email](mailto:wizard@amigos.institute)| [Wizard Amigos Institute Chat](https://gitter.im/wizardamigosinstitute/chat)
+
+**Wenn du noch mehr erfahren möchtest, hier gibt es [mehr Details](https://github.com/wizardamigosinstitute/organisation/blob/master/README.md).**
 
 ---
