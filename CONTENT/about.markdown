@@ -62,11 +62,11 @@ Schreib uns
 Gegenwärtiges Team  
 
 [@ninabreznik](https://twitter.com/ninabreznik)
-* [Rails Girl](http://railsgirlsberlin.de/) und [Open Source Mitwirkende](https://github.com/ninabreznik), mit-Organisatorin von [Coding amigos](http://www.meetup.com/CodingAmigos/) und Gründerin von [Zweidesign](http://zweidesign.co/).
+* [Rails Girl](http://railsgirlsberlin.de/) und [Open Source Mitwirkende](https://github.com/ninabreznik), Mitorganisatorin von [Coding amigos](http://www.meetup.com/CodingAmigos/) und Gründerin von [Zweidesign](http://zweidesign.co/).
 
 [@serapath](https://twitter.com/serapath)   
-* [Open Source Mitwirkender](https://github.com/serapath), co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/) und Gründer von [Fairydust](http://fairydust.agency) und [Frappe](http://frappe-rheinmain.de/).
+* [Open Source Mitwirkender](https://github.com/serapath), Mitorganisator von [Coding amigos](http://www.meetup.com/CodingAmigos/) und Gründer von [Fairydust](http://fairydust.agency) und [Frappe](http://frappe-rheinmain.de/).
 
-Wenn du noch mehr erfahren möchtest, hier gibt es [mehr Details](https://github.com/wizardamigosinstitute/organisation/blob/master/README.md).
+Wenn du mehr erfahren möchtest, hier gibt es [mehr Details](https://github.com/wizardamigosinstitute/organisation/blob/master/README.md).
 
 ---
