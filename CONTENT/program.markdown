@@ -28,7 +28,7 @@ We promise to make this learning journey exciting for all future wizard amigos. 
   * [Github](github), [Waffle](waffle), [Codepen](codepen), [Gitter](gitter)
 * **[Markup languages](markuplanguages)**  
   * [Markdown](markdown), [HTML](html), [SVG](svg) & [CSS](cs)
-* **[Devops](devops)**  
+* **[DevOps](devops)**  
   * [npm](npm), [atomify](atomify), [git](git), [dns](dns) & [ssh](ssh)
 * **[Coding wizardry](codingwizardry)**  
   * [Node.js](node.js), [JavaScript](javascript), [Web API](web api), [LevelDB](leveldb) & [Regex](regex)
@@ -51,7 +51,7 @@ Wir geben uns alle Mühe die Lernreise aufregend für alle zukünftigen Wizard A
   * [Github](github), [Waffle](waffle), [Codepen](codepen), [Gitter](gitter)
 * **[Markup languages](markuplanguages)**  
   * [Markdown](markdown), [HTML](html), [SVG](svg) & [CSS](cs)
-* **[Devops](devops)**  
+* **[DevOps](devops)**  
   * [npm](npm), [atomify](atomify), [git](git), [dns](dns) & [ssh](ssh)
 * **[Coding wizardry](codingwizardry)**  
   * [Node.js](node.js), [JavaScript](javascript), [Web API](web api), [LevelDB](leveldb) & [Regex](regex)
