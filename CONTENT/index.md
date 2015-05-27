@@ -8,8 +8,8 @@
     "program",
     "schedule",
     "support",
-    "contribute",
-    "about"
+    "about",
+    "contribute"
   ]
 }
 ---
