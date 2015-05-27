@@ -21,8 +21,9 @@
 # About
 
 ## Learn more about us
-* [Our Vision](https://github.com/wizardamigosinstitute/organization/blob/master/CONTENT/manifest.markdown)
-* [Our Story](https://github.com/wizardamigosinstitute/organization/blob/master/CONTENT/story.markdown)
+In early 2014 we started Coding Amigos Hackathons in Berlin. We organized over 70 events and co-learning workshops. Before that we participated in several groups: University Incubator, Social Media Week, Rails Girls, StartUp weekend, Open Tech School etc.
+
+During last year we have met a lot of coding learners and got to know several techniques for beginners and advanced learners. We realised we have enough experiences to bring this skills also to the youngest segment. And so the idea for programming institute was born. Read more about our [vision](https://github.com/wizardamigosinstitute/organization/blob/master/CONTENT/manifest.markdown).
 
 ## Current Team
 ### [@ninabreznik](https://twitter.com/ninabreznik)
@@ -40,19 +41,15 @@
 * co-founder of [Wizard Amigos Institute](http://wizard.amigos.institute/)
 * co-founder of [Frappe](http://frappe-rheinmain.de/)
 
-***If you want to know more, please checkout
-[more details](https://github.com/wizardamigosinstitute/organisation/blob/master/README.md).***
+**If you want to know more, please click here for [more details](https://github.com/wizardamigosinstitute/organisation/blob/master/README.md).**
 
 #### Follow Us or Subscribe
-* [Twitter](https://twitter.com/wizardamigos)
-* [Facebook](https://www.facebook.com/wizardamigos)
-* [Github](https://github.com/wizardamigosinstitute)
+[Twitter](https://twitter.com/wizardamigos)| [Facebook](https://www.facebook.com/wizardamigos) | [Github](https://github.com/wizardamigosinstitute)
 
 [{{Subscribe}}](#!Subscribe)
 
 #### Contact Us
-* [Email](mailto:wizard@amigos.institute)
-* [Wizard Amigos Institute Chat](https://gitter.im/wizardamigosinstitute/chat)
+[Email](mailto:wizard@amigos.institute) [Wizard Amigos Institute Chat](https://gitter.im/wizardamigosinstitute/chat)
 
 [//]: # (@TODO: add "Impressum", "Address", "TaxNo.", ...)
 
@@ -65,14 +62,14 @@
 * [Unsere Geschichte](https://github.com/wizardamigosinstitute/organization/blob/master/CONTENT/story.markdown)
 
 ## Gegenwärtiges Team
-### [@ninabreznik](https://twitter.com/ninabreznik)
+[@ninabreznik](https://twitter.com/ninabreznik)
   * [Open Source Mitwirkende](https://github.com/ninabreznik)
   * Mit-Organisator von [Coding amigos](http://www.meetup.com/CodingAmigos/)
   * Gründer von [Zweidesign](http://zweidesign.co/)
   * [Rails Girl](http://railsgirlsberlin.de/)
   * Mitgründer von [Wizard Amigos Institute](http://wizard.amigos.institute/)
 
-### [@serapath](https://twitter.com/serapath)
+[@serapath](https://twitter.com/serapath)
 * [Open Source Mitwirkender](https://github.com/serapath)
   * Spezielles Engagement: [Atomify](https://github.com/atomify/atomify)
 * co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/)
@@ -80,17 +77,14 @@
 * Mitgründer von [Wizard Amigos Institute](http://wizard.amigos.institute/)
 * Mitgründer von [Frappe](http://frappe-rheinmain.de/)
 
-***Wenn du noch mehr erfahren möchtest, hier gibt es [mehr Details](https://github.com/wizardamigosinstitute/organisation/blob/master/README.md).***
+**Wenn du noch mehr erfahren möchtest, hier gibt es [mehr Details](https://github.com/wizardamigosinstitute/organisation/blob/master/README.md).**
 
 ### Folge uns oder Abonniere
-* [Twitter](https://twitter.com/wizardamigos)
-* [Facebook](https://www.facebook.com/wizardamigos)
-* [Github](https://github.com/wizardamigosinstitute)
+[Twitter](https://twitter.com/wizardamigos)|[Facebook](https://www.facebook.com/wizardamigos)|[Github](https://github.com/wizardamigosinstitute)
 
 [{{Subscribe}}](#!Subscribe)
 
 #### Schreib uns
-* [Email](mailto:wizard@amigos.institute)
-* [Wizard Amigos Institute Chat](https://gitter.im/wizardamigosinstitute/chat)
+[Email](mailto:wizard@amigos.institute)| [Wizard Amigos Institute Chat](https://gitter.im/wizardamigosinstitute/chat)
 
 ---
