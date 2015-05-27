@@ -32,7 +32,7 @@ Currently we organize 2 sessions per week. Every magic session accepts **up to 1
 [//]: # (@TODO - add iCal Format)
 
 | Name                     |  Times               |          Locations          |              Subscribe           |
-| ------------------------ |:--------------------:|:---------------------------:|:--------------------------------:| 
+| :----------------------: |:--------------------:|:---------------------------:|:--------------------------------:| 
 | **Wizard Amigos Magic Sessions**       |  Mondays 17:00-18:30 | [Co-Up coworking][address]  | [{{Pay Button}}](#!PayButton1)   |
 | **Wizard Amigos Magic Sessions**       |  Mondays 18:30-20:00 | [Co-Up coworking][address]  | [{{Pay Button}}](#!PayButton1)   |
 | **Wizard Amigos Super Magic Sessions** | Mondays 17:00-20:00  | [Co-Up coworking][address]  |  [{{Pay Button}}](#!PayButton2)  |
@@ -49,7 +49,7 @@ Aktuell organisieren wir 2 Sitzungen pro Woche. Jede Zaubersitzung hat Platz fü
 
 
 | Name                   |        Zeiten       |             Ort            |             Anmelden             |
-| ---------------------- |:-------------------:|:--------------------------:|:--------------------------------:|
+| :--------------------: |:-------------------:|:--------------------------:|:--------------------------------:|
 | **Wizard Amigos Zauberkurse**        | Montags 17:00-18:30 | [Co-Up coworking][address] | [{{Pay Button}}](#!PayButton1)   |
 | **Wizard Amigos Zauberkurse**        | Montags 18:30-20:00 | [Co-Up coworking][address] | [{{Pay Button}}](#!PayButton1)   |
 | **Wizard Amigos Superzauberkurse**   | Montags 17:00-20:00 | [Co-Up coworking][address] | [{{Pay Button}}](#!PayButton2)   |
