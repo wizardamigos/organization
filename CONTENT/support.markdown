@@ -27,9 +27,10 @@
 Wizard Amigos Institute is supported by individuals and companies who believe that children all over Germany should be able to access computer science early in their education. We rely on the support of our communities. All fundraising efforts help us teach another more people to code.
 
 
-Sponsor 1+ learner!  
-4 x 1.5h over 1 month= 120EUR/child.
+**Sponsor 1+ learner!  
+4 x 1.5h over 1 month= 120EUR/child**
 [{{Sponsor Button}}](#!SponsorButton)
+
 
 Want to brainstorm? **[Contact us](mailto:wizard@amigos.institute?Subject=Brainstorm)** to see what we can do together.
 
@@ -46,9 +47,11 @@ Das Wizard Amigos Institut wird von Privatpersonen und Unternehmen unterstützt,
 
 Wir sind auf die Unterstützung unserer Gemeinschaft angewiesen. Alle Mühen der Spendenerhebung helfen uns dabei mehr Menschen das Programmieren beizubringen.
 
+
+**Sponsere 1+ Lernenden!  
+4 x 1,5h pro Monat = 120 EUR/Kind**
 [{{Sponsor Button}}](#!SponsorButton)
-Sponsere 1+ Plätze in unserem Lernprogramm!  
-4 x 1,5h pro Monat = 120 EUR / Kind.
+
 
 Lust mit uns zu brainstormen? **[Schreib uns](mailto:wizard@amigos.institute?Subject=Brainstorm)** und wir sehen was wir gemeinsam tun können.
 
