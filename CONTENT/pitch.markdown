@@ -30,7 +30,7 @@ Calling all wizards! If you are skilled in the ways of wizardry already, [lend y
 
 ## Komm, lern mit uns das Programmieren.
 
-Das Wizard Amigos Institut lädt dich zu seinen kollaborativen Programmier-Lernsessions in freundlicher und spielerischer Atmosphäre ein. Erlerne mit uns die Nutzung hochmoderner Methoden und digitaler Werkzeuge. Werde ein selbstbestimmter kollaborativer Programmierer und ko-gestalte die Zukunft.
+Wir laden dich zu unseren kollaborativen Programmier-Lernsessions in freundlicher und spielerischer Atmosphäre ein. Erlerne mit uns die Nutzung hochmoderner Methoden und digitaler Werkzeuge. Werde ein selbstbestimmter kollaborativer Programmierer und ko-gestalte die Zukunft.
 
 Aufruf an alle Zauberer! Wenn du mit der Magie bereits bestens Vertraut bist, [leihe uns deine magischen Fähigkeiten](https://gitter.im/wizardamigosinstitute/chat) und hilf als Mentor.
 
