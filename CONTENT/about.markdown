@@ -26,7 +26,7 @@ Wizard Amigos Institute is on a mission to empower people with programming skill
 **Follow Us or Subscribe**   
 [Twitter](https://twitter.com/wizardamigos)| [Facebook](https://www.facebook.com/wizardamigos) | [Github](https://github.com/wizardamigosinstitute)
 
-[{{Subscribe}}](#!Subscribe)
+<!--[{{Subscribe}}](#!Subscribe)-->
 
 **Contact Us**  
 [Email](mailto:wizard@amigos.institute) | [Wizard Amigos Chat](https://gitter.im/wizardamigosinstitute/chat)
@@ -52,7 +52,7 @@ If you want to know more, please click here for [more details](https://github.co
 Folge uns oder Abonniere     
 [Twitter](https://twitter.com/wizardamigos)|[Facebook](https://www.facebook.com/wizardamigos)|[Github](https://github.com/wizardamigosinstitute)
 
-[{{Subscribe}}](#!Subscribe)
+<!--[{{Subscribe}}](#!Subscribe)-->
 
 Schreib uns  
 [Email](mailto:wizard@amigos.institute) | [Wizard Amigos Chat](https://gitter.im/wizardamigosinstitute/chat)
