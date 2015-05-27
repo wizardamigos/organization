@@ -38,9 +38,7 @@ Du solltest mindestens 8 Jahre alt sein.
 
 Du benötigst einen eigenen Rechner. Dieser muss nicht besonders leistungsstark sein, aber du brauchst einen und es sollte Linux oder Mac OSX installiert sein. Falls Windows darauf läuft helfen wir dir gerne Linux zu installieren.
 
-Moderne Lernunterlagen im Internet sind alle in englisch gehalten. Es
-
-Most modern learning resources online are in english. Es ist sehr hilfreich, wenn du bereits grundlegende Englischkenntnisse besitzt, aber alle Mentoren sprechen deutsch und englisch und helfen die sehr gerne jederzeit aus :-)
+Moderne Lernunterlagen im Internet sind alle in englisch gehalten. Es ist sehr hilfreich, wenn du bereits grundlegende Englischkenntnisse besitzt, aber alle Mentoren sprechen deutsch und englisch und helfen die sehr gerne jederzeit aus :-)
 
 Wenn du unsicher bist ob du bei uns richtig bist, [schreib uns einfach](mailto:wizard@amigos.institute) und wir freuen uns darauf dir zu weiterzuhelfen.
 
