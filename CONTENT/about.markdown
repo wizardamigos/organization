@@ -23,15 +23,15 @@
 ## Learn more about us
 Wizard Amigos Institute is on a mission to empower people with programming skills for making social change and shape a better future for all of us! Read more about our [vision](https://github.com/wizardamigosinstitute/organization/blob/master/CONTENT/manifest.markdown) and [how it all started](https://github.com/wizardamigosinstitute/organization/blob/master/CONTENT/story.markdown).
 
-Follow Us or Subscribe   
+**Follow Us or Subscribe**   
 [Twitter](https://twitter.com/wizardamigos)| [Facebook](https://www.facebook.com/wizardamigos) | [Github](https://github.com/wizardamigosinstitute)
 
 [{{Subscribe}}](#!Subscribe)
 
-Contact Us  
+**Contact Us**  
 [Email](mailto:wizard@amigos.institute) | [Wizard Amigos Chat](https://gitter.im/wizardamigosinstitute/chat)
 
-Current Team  
+### Current Team  
 
 [Nina Breznik](https://twitter.com/ninabreznik)([Rails Girl](http://railsgirlsberlin.de/) and [open source contributor](https://github.com/ninabreznik), co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/) and founder of [Zweidesign](http://zweidesign.co/)).
 
