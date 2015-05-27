@@ -23,6 +23,14 @@
 ## Learn more about us
 Wizard Amigos Institute is on a mission to empower people with programming skills for making social change and shape a better future for all of us! Read more about our [vision](https://github.com/wizardamigosinstitute/organization/blob/master/CONTENT/manifest.markdown) and [how it all started](https://github.com/wizardamigosinstitute/organization/blob/master/CONTENT/story.markdown).
 
+Follow Us or Subscribe   
+[Twitter](https://twitter.com/wizardamigos)| [Facebook](https://www.facebook.com/wizardamigos) | [Github](https://github.com/wizardamigosinstitute)
+
+[{{Subscribe}}](#!Subscribe)
+
+Contact Us  
+[Email](mailto:wizard@amigos.institute) | [Wizard Amigos Institute Chat](https://gitter.im/wizardamigosinstitute/chat)
+
 Current Team  
 
 [@ninabreznik](https://twitter.com/ninabreznik)
@@ -34,14 +42,6 @@ Current Team
 * [open source contributor](https://github.com/serapath)
 * co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/)
 * founder of [Fairydust](http://fairydust.agency) and [Frappe](http://frappe-rheinmain.de/)
-
-Follow Us or Subscribe   
-[Twitter](https://twitter.com/wizardamigos)| [Facebook](https://www.facebook.com/wizardamigos) | [Github](https://github.com/wizardamigosinstitute)
-
-[{{Subscribe}}](#!Subscribe)
-
-Contact Us  
-[Email](mailto:wizard@amigos.institute) | [Wizard Amigos Institute Chat](https://gitter.im/wizardamigosinstitute/chat)
 
 If you want to know more, please click here for [more details](https://github.com/wizardamigosinstitute/organisation/blob/master/README.md).
 
@@ -55,6 +55,14 @@ If you want to know more, please click here for [more details](https://github.co
 * [Unsere Vision](https://github.com/wizardamigosinstitute/organization/blob/master/CONTENT/manifest.markdown)
 * [Unsere Geschichte](https://github.com/wizardamigosinstitute/organization/blob/master/CONTENT/story.markdown)
 
+Folge uns oder Abonniere     
+[Twitter](https://twitter.com/wizardamigos)|[Facebook](https://www.facebook.com/wizardamigos)|[Github](https://github.com/wizardamigosinstitute)
+
+[{{Subscribe}}](#!Subscribe)
+
+Schreib uns  
+[Email](mailto:wizard@amigos.institute) | [Wizard Amigos Institute Chat](https://gitter.im/wizardamigosinstitute/chat)
+
 Gegenwärtiges Team  
 
 [@ninabreznik](https://twitter.com/ninabreznik)
@@ -66,15 +74,6 @@ Gegenwärtiges Team
 * [Open Source Mitwirkender](https://github.com/serapath)
 * co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/)
 * Gründer von [Fairydust](http://fairydust.agency) und [Frappe](http://frappe-rheinmain.de/)
-
-
-Folge uns oder Abonniere   
-[Twitter](https://twitter.com/wizardamigos)|[Facebook](https://www.facebook.com/wizardamigos)|[Github](https://github.com/wizardamigosinstitute)
-
-[{{Subscribe}}](#!Subscribe)
-
-Schreib uns  
-[Email](mailto:wizard@amigos.institute) | [Wizard Amigos Institute Chat](https://gitter.im/wizardamigosinstitute/chat)
 
 Wenn du noch mehr erfahren möchtest, hier gibt es [mehr Details](https://github.com/wizardamigosinstitute/organisation/blob/master/README.md).
 
