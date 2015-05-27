@@ -35,7 +35,9 @@ Currently we organize 2 sessions per week. Every magic session accepts **up to 1
 | :----------------------: |:--------------------:|:---------------------------:|:--------------------------------:| 
 |                          |                      |                             |                                  |
 | **Wizard Amigos Magic Sessions** |  Mondays 17:00-18:30 | [Co-Up coworking][address]  | [{{Pay Button}}](#!PayButton1)   |
+|                          |                      |                             |                                  |
 | **Wizard Amigos Magic Sessions** |  Mondays 18:30-20:00 | [Co-Up coworking][address]  | [{{Pay Button}}](#!PayButton1)   |
+|                          |                      |                             |                                  |
 | **Wizard Amigos Super Magic Sessions** | Mondays 17:00-20:00  | [Co-Up coworking][address]  |  [{{Pay Button}}](#!PayButton2)  |
 
 For each paid learner we will donate a certain amount to support our **Pay-what-you-can program**. If you can't afford to pay the full price, **[apply here](mailto:wizard@amigos.institute?Subject=Application:%20For%20the%20Pay-what-you-can%20program&Body=%0D%0A)** for Pay-what-you-can program.
@@ -52,9 +54,11 @@ Aktuell organisieren wir 2 Sitzungen pro Woche. Jede Zaubersitzung hat Platz fü
 | Name                        |        Zeiten       |             Ort            |             Anmelden             |
 | :-------------------------: |:-------------------:|:--------------------------:|:--------------------------------:|
 |                             |                     |                            |                                  |
-| **Wizard Amigos Zauberkurse** | Montags 17:00-18:30 | [Co-Up coworking][address] | [{{Pay Button}}](#!PayButton1)   |
-| **Wizard Amigos Zauberkurse** | Montags 18:30-20:00 | [Co-Up coworking][address] | [{{Pay Button}}](#!PayButton1)   |
-| **Wizard Amigos Superzauberkurse**  | Montags 17:00-20:00 | [Co-Up coworking][address] | [{{Pay Button}}](#!PayButton2)   |
+| **Wizard Amigos Zauberkurse** | Montags 17:00-18:30 |[Co-Up coworking][address] |[{{Pay Button}}](#!PayButton1)   |
+|                             |                     |                            |                                  |
+| **Wizard Amigos Zauberkurse** | Montags 18:30-20:00 |[Co-Up coworking][address] |[{{Pay Button}}](#!PayButton1)   |
+|                             |                     |                            |                                  |
+| **Wizard Amigos Superzauberkurse**|Montags 17:00-20:00|[Co-Up coworking][address]|[{{Pay Button}}](#!PayButton2) |
 
 Für jeden bezahlten Lernplatz spenden wir persönlich um unser **Bezahl-soviel-du-kannst Programm** zu unterstützen. Wenn du dir den vollen Preis nicht leisten kannst, dann **[Bewirb dich hier](mailto:wizard@amigos.institute?Subject=Application:%20For%20the%20Pay-what-you-can%20program&Body=%0D%0A)** für unser Bezahl-soviel-du-kannst Programm.
 
