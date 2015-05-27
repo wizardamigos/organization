@@ -28,7 +28,7 @@ Wizard Amigos Institute is supported by individuals and companies who believe th
 
 
 **Sponsor 1+ learner!  
-4 x 1.5h over 1 month= 120EUR/child**
+4 x 1.5h over 1 month= 120€/child**
 [{{Sponsor Button}}](#!SponsorButton)
 
 
@@ -49,7 +49,7 @@ Wir sind auf die Unterstützung unserer Gemeinschaft angewiesen. Alle Mühen der
 
 
 **Sponsere 1+ Lernenden!  
-4 x 1,5h pro Monat = 120 EUR/Kind**
+4 x 1,5 Std. pro Monat = 120€/Kind**
 [{{Sponsor Button}}](#!SponsorButton)
 
 
