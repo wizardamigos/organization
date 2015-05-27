@@ -29,15 +29,13 @@ Follow Us or Subscribe
 [{{Subscribe}}](#!Subscribe)
 
 Contact Us  
-[Email](mailto:wizard@amigos.institute) | [Wizard Amigos Institute Chat](https://gitter.im/wizardamigosinstitute/chat)
+[Email](mailto:wizard@amigos.institute) | [Wizard Amigos Chat](https://gitter.im/wizardamigosinstitute/chat)
 
 Current Team  
 
-[@ninabreznik](https://twitter.com/ninabreznik) 
-* [Rails Girl](http://railsgirlsberlin.de/) and [open source contributor](https://github.com/ninabreznik), co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/) and founder of [Zweidesign](http://zweidesign.co/).
+[Nina Breznik](https://twitter.com/ninabreznik)([Rails Girl](http://railsgirlsberlin.de/) and [open source contributor](https://github.com/ninabreznik), co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/) and founder of [Zweidesign](http://zweidesign.co/)).
 
-[@serapath](https://twitter.com/serapath)
-* [Open source contributor](https://github.com/serapath), co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/) and founder of [Fairydust](http://fairydust.agency) and [Frappe](http://frappe-rheinmain.de/).
+[Alexander Praetorius](https://twitter.com/serapath)([Open source contributor](https://github.com/serapath), co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/) and founder of [Fairydust](http://fairydust.agency) and [Frappe](http://frappe-rheinmain.de/)).
 
 If you want to know more, please click here for [more details](https://github.com/wizardamigosinstitute/organisation/blob/master/README.md).
 
@@ -57,7 +55,7 @@ Folge uns oder Abonniere
 [{{Subscribe}}](#!Subscribe)
 
 Schreib uns  
-[Email](mailto:wizard@amigos.institute) | [Wizard Amigos Institute Chat](https://gitter.im/wizardamigosinstitute/chat)
+[Email](mailto:wizard@amigos.institute) | [Wizard Amigos Chat](https://gitter.im/wizardamigosinstitute/chat)
 
 Gegenwärtiges Team  
 
