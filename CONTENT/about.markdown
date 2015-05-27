@@ -33,10 +33,10 @@ Contact Us
 
 Current Team  
 
-[@ninabreznik](https://twitter.com/ninabreznik)
+**[@ninabreznik](https://twitter.com/ninabreznik)**  
 [Rails Girl](http://railsgirlsberlin.de/) and [open source contributor](https://github.com/ninabreznik), co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/) and founder of [Zweidesign](http://zweidesign.co/).
 
-[@serapath](https://twitter.com/serapath)
+**[@serapath](https://twitter.com/serapath)**  
 [open source contributor](https://github.com/serapath), co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/) and founder of [Fairydust](http://fairydust.agency) and [Frappe](http://frappe-rheinmain.de/).
 
 If you want to know more, please click here for [more details](https://github.com/wizardamigosinstitute/organisation/blob/master/README.md).
@@ -61,15 +61,11 @@ Schreib uns
 
 Gegenwärtiges Team  
 
-**[@ninabreznik](https://twitter.com/ninabreznik)**  
-  * [Rails Girl](http://railsgirlsberlin.de/) und [Open Source Mitwirkende](https://github.com/ninabreznik)
-  * Mit-Organisator von [Coding amigos](http://www.meetup.com/CodingAmigos/)
-  * Gründer von [Zweidesign](http://zweidesign.co/)
+**[@ninabreznik](https://twitter.com/ninabreznik)**    
+[Rails Girl](http://railsgirlsberlin.de/) und [Open Source Mitwirkende](https://github.com/ninabreznik), mit-Organisatorin von [Coding amigos](http://www.meetup.com/CodingAmigos/) und Gründerin von [Zweidesign](http://zweidesign.co/).
 
-**[@serapath](https://twitter.com/serapath)**  
-* [Open Source Mitwirkender](https://github.com/serapath)
-* co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/)
-* Gründer von [Fairydust](http://fairydust.agency) und [Frappe](http://frappe-rheinmain.de/)
+**[@serapath](https://twitter.com/serapath)**    
+[Open Source Mitwirkender](https://github.com/serapath), co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/) und Gründer von [Fairydust](http://fairydust.agency) und [Frappe](http://frappe-rheinmain.de/).
 
 Wenn du noch mehr erfahren möchtest, hier gibt es [mehr Details](https://github.com/wizardamigosinstitute/organisation/blob/master/README.md).
 
