@@ -23,7 +23,8 @@
 ## Learn more about us
 Wizard Amigos Institute is on a mission to empower people with programming skills for making social change and shape a better future for all of us! Read more about our [vision](https://github.com/wizardamigosinstitute/organization/blob/master/CONTENT/manifest.markdown) and [how it all started](https://github.com/wizardamigosinstitute/organization/blob/master/CONTENT/story.markdown).
 
-**Current Team**
+**Current Team**  
+
 [@ninabreznik](https://twitter.com/ninabreznik)
   * [open source contributor](https://github.com/ninabreznik)
   * co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/)
@@ -39,13 +40,13 @@ Wizard Amigos Institute is on a mission to empower people with programming skill
 * co-founder of [Wizard Amigos Institute](http://wizard.amigos.institute/)
 * co-founder of [Frappe](http://frappe-rheinmain.de/)
 
-**Follow Us or Subscribe**
+**Follow Us or Subscribe**  
 [Twitter](https://twitter.com/wizardamigos)| [Facebook](https://www.facebook.com/wizardamigos) | [Github](https://github.com/wizardamigosinstitute)
 
 [{{Subscribe}}](#!Subscribe)
 
-**Contact Us**
-[Email](mailto:wizard@amigos.institute) [Wizard Amigos Institute Chat](https://gitter.im/wizardamigosinstitute/chat)
+**Contact Us**  
+[Email](mailto:wizard@amigos.institute) | [Wizard Amigos Institute Chat](https://gitter.im/wizardamigosinstitute/chat)
 
 If you want to know more, please click here for [more details](https://github.com/wizardamigosinstitute/organisation/blob/master/README.md).
 
@@ -60,6 +61,7 @@ If you want to know more, please click here for [more details](https://github.co
 * [Unsere Geschichte](https://github.com/wizardamigosinstitute/organization/blob/master/CONTENT/story.markdown)
 
 **Gegenwärtiges Team**
+
 [@ninabreznik](https://twitter.com/ninabreznik)
   * [Open Source Mitwirkende](https://github.com/ninabreznik)
   * Mit-Organisator von [Coding amigos](http://www.meetup.com/CodingAmigos/)
@@ -76,13 +78,13 @@ If you want to know more, please click here for [more details](https://github.co
 * Mitgründer von [Frappe](http://frappe-rheinmain.de/)
 
 
-**Folge uns oder Abonniere**
+**Folge uns oder Abonniere**  
 [Twitter](https://twitter.com/wizardamigos)|[Facebook](https://www.facebook.com/wizardamigos)|[Github](https://github.com/wizardamigosinstitute)
 
 [{{Subscribe}}](#!Subscribe)
 
-**Schreib uns**
-[Email](mailto:wizard@amigos.institute)| [Wizard Amigos Institute Chat](https://gitter.im/wizardamigosinstitute/chat)
+**Schreib uns**  
+[Email](mailto:wizard@amigos.institute) | [Wizard Amigos Institute Chat](https://gitter.im/wizardamigosinstitute/chat)
 
 Wenn du noch mehr erfahren möchtest, hier gibt es [mehr Details](https://github.com/wizardamigosinstitute/organisation/blob/master/README.md).
 
