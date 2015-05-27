@@ -23,19 +23,21 @@
 ## Learn more about us
 Wizard Amigos Institute is on a mission to empower people with programming skills for making social change and shape a better future for all of us! Read more about our [vision](https://github.com/wizardamigosinstitute/organization/blob/master/CONTENT/manifest.markdown) and [how it all started](https://github.com/wizardamigosinstitute/organization/blob/master/CONTENT/story.markdown).
 
-Follow Us or Subscribe   
+**Follow Us or Subscribe**   
 [Twitter](https://twitter.com/wizardamigos)| [Facebook](https://www.facebook.com/wizardamigos) | [Github](https://github.com/wizardamigosinstitute)
 
-[{{Subscribe}}](#!Subscribe)
+<!--[{{Subscribe}}](#!Subscribe)-->
 
-Contact Us  
+**Contact Us**  
 [Email](mailto:wizard@amigos.institute) | [Wizard Amigos Chat](https://gitter.im/wizardamigosinstitute/chat)
 
-Current Team  
+### Current Team  
 
-[Nina Breznik](https://twitter.com/ninabreznik)([Rails Girl](http://railsgirlsberlin.de/) and [open source contributor](https://github.com/ninabreznik), co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/) and founder of [Zweidesign](http://zweidesign.co/)).
+[@ninabreznik](https://twitter.com/ninabreznik)
+* [Rails Girl](http://railsgirlsberlin.de/) and [open source contributor](https://github.com/ninabreznik), co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/) and founder of [Zweidesign](http://zweidesign.co/).
 
-[Alexander Praetorius](https://twitter.com/serapath)([Open source contributor](https://github.com/serapath), co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/) and founder of [Fairydust](http://fairydust.agency) and [Frappe](http://frappe-rheinmain.de/)).
+[@serapath](https://twitter.com/serapath)  
+* [Open source contributor](https://github.com/serapath), co-organizer of [Coding amigos](http://www.meetup.com/CodingAmigos/) and founder of [Fairydust](http://fairydust.agency) and [Frappe](http://frappe-rheinmain.de/).
 
 If you want to know more, please click here for [more details](https://github.com/wizardamigosinstitute/organisation/blob/master/README.md).
 
@@ -49,15 +51,15 @@ If you want to know more, please click here for [more details](https://github.co
 * [Unsere Vision](https://github.com/wizardamigosinstitute/organization/blob/master/CONTENT/manifest.markdown)
 * [Unsere Geschichte](https://github.com/wizardamigosinstitute/organization/blob/master/CONTENT/story.markdown)
 
-Folge uns oder Abonniere     
+**Folge uns oder Abonniere**     
 [Twitter](https://twitter.com/wizardamigos)|[Facebook](https://www.facebook.com/wizardamigos)|[Github](https://github.com/wizardamigosinstitute)
 
-[{{Subscribe}}](#!Subscribe)
+<!--[{{Subscribe}}](#!Subscribe)-->
 
-Schreib uns  
+**Schreib uns**  
 [Email](mailto:wizard@amigos.institute) | [Wizard Amigos Chat](https://gitter.im/wizardamigosinstitute/chat)
 
-Gegenwärtiges Team  
+### Gegenwärtiges Team  
 
 [@ninabreznik](https://twitter.com/ninabreznik)
 * [Rails Girl](http://railsgirlsberlin.de/) und [Open Source Mitwirkende](https://github.com/ninabreznik), Mitorganisatorin von [Coding amigos](http://www.meetup.com/CodingAmigos/) und Gründerin von [Zweidesign](http://zweidesign.co/).
