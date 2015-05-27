@@ -22,16 +22,11 @@
 
 We promise to make this learning journey exciting for all future wizard amigos. Our learning-by-doing approach will help you get to know the right magic spells to become an active problem solver. All our learning materials are open source and under a free license:
 
-* **[Magic tools](magictools)**  
-  * [Unix shell](unixshell), [Text editor](texteditor) & [Web browser](webbrowser)
-* **[Collaboration channels](collaborationchannels)**  
-  * [Github](github), [Waffle](waffle), [Codepen](codepen), [Gitter](gitter)
-* **[Markup languages](markuplanguages)**  
-  * [Markdown](markdown), [HTML](html), [SVG](svg) & [CSS](cs)
-* **[DevOps](devops)**  
-  * [npm](npm), [atomify](atomify), [git](git), [dns](dns) & [ssh](ssh)
-* **[Coding wizardry](codingwizardry)**  
-  * [Node.js](node.js), [JavaScript](javascript), [Web API](web api), [LevelDB](leveldb) & [Regex](regex)
+* **[Magic tools](magictools)** ([Unix shell](unixshell), [Text editor](texteditor) & [Web browser](webbrowser))
+* **[Collaboration channels](collaborationchannels)** ([Github](github), [Waffle](waffle), [Codepen](codepen), [Gitter](gitter))
+* **[Markup languages](markuplanguages)** ([Markdown](markdown), [HTML](html), [SVG](svg) & [CSS](css))
+* **[DevOps](devops)** ([npm](npm), [atomify](atomify), [git](git), [dns](dns) & [ssh](ssh))
+* **[Coding wizardry](codingwizardry)** ([Node.js](node.js), [JavaScript](javascript), [Web API](web api), [LevelDB](leveldb) & [Regex](regex))
 
 We also encourage all the participants to pick their own projects (but if they don't, no worries, we will help them find one or they will be able to join existing projects).
 
@@ -45,16 +40,11 @@ Wizardry is serious business. Higher-level wizards will create a simple video su
 
 Wir geben uns alle Mühe die Lernreise aufregend für alle zukünftigen Wizard Amigos zu machen. Unsere lernen-durch-handeln Methodik hilft dir dabei die richtigen Zaubersprüche kennenzulernen um ein aktiver Problemlöser zu werden. Alle unsere Lernmaterialien sind quelloffen und unter freier Lizenz:
 
-* **[Magic tools](magictools)**  
-  * [Unix shell](unixshell), [Text editor](texteditor) & [Web browser](webbrowser)
-* **[Collaboration channels](collaborationchannels)**  
-  * [Github](github), [Waffle](waffle), [Codepen](codepen), [Gitter](gitter)
-* **[Markup languages](markuplanguages)**  
-  * [Markdown](markdown), [HTML](html), [SVG](svg) & [CSS](cs)
-* **[DevOps](devops)**  
-  * [npm](npm), [atomify](atomify), [git](git), [dns](dns) & [ssh](ssh)
-* **[Coding wizardry](codingwizardry)**  
-  * [Node.js](node.js), [JavaScript](javascript), [Web API](web api), [LevelDB](leveldb) & [Regex](regex)
+* **[Magic tools](magictools)** ([Unix shell](unixshell), [Text editor](texteditor) & [Web browser](webbrowser))
+* **[Collaboration channels](collaborationchannels)** ([Github](github), [Waffle](waffle), [Codepen](codepen), [Gitter](gitter))
+* **[Markup languages](markuplanguages)** ([Markdown](markdown), [HTML](html), [SVG](svg) & [CSS](css))
+* **[DevOps](devops)** ([npm](npm), [atomify](atomify), [git](git), [dns](dns) & [ssh](ssh))
+* **[Coding wizardry](codingwizardry)** ([Node.js](node.js), [JavaScript](javascript), [Web API](web api), [LevelDB](leveldb) & [Regex](regex))
 
 Jeder Teilnehmer ist dazu aufgerufen eigene Projekte zu wählen. (Falls nicht, keine Sorge, wir helfen jedem eins zu finden oder in einem existierenden Projekt mitzuhelfen).
 
