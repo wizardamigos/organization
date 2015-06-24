@@ -8,7 +8,7 @@ This page is our little thank you to all the communities around us who inspire u
 * [Hackidemia](http://www.hackidemia.com/press/) crew is dedicated to create new opportunities for children and mentors. They empower entrepreneurial thinking and prepare the next generation of leaders to approach human challenges through creative technical solution. We are hugely inspired by them.
 
 ### Open Tech School
-* [Open tech school](http://www.opentechschool.org/sponsors.html) is a movement aiming to offer free tech education. They are designing workshops and awesome learning materials in a welcoming learning environment. Same as them we also want to create new generation of coders and arm them with the new literacy for the future.
+* [Open tech school](http://www.opentechschool.org/sponsors.html) is a community organizing free tech education. They hold workshops and provide awesome learning materials in a welcoming learning environment. Just like them, we also want to create a new generation of coders and arm them with the new literacy for the future.
 
 ### Rails Girls
 * [Rails Girls](http://railsgirlsberlin.de/category/press/) organize free workshops for women without prior experience in programming. They are focused into creating an intimate space where questions are welcome and where there is no pressure nor competition. It is a movement for getting more women into tech world and help to close the gender gap in IT. We are grateful and proud to be part of them.
