@@ -4,6 +4,9 @@ This page is our little thank you to all the communities around us who inspire u
 ### Co.Up
 * [Co.Up](http://co-up.de/) is the space where learners and hackers meet. Our idea and our community was born there. They provide us with space and infrastructure. We are grateful to have them on our side.
 
+### CoderDojo
+* [CoderDojo](https://coderdojo.com/) is the global network of free computer programming clubs for young people. They focus on community, peer learning, youth mentoring and self led learning,  with an emphasis on showing how coding is a force for change in the world.
+
 ### Hackidemia
 * [Hackidemia](http://www.hackidemia.com/press/) crew is dedicated to create new opportunities for children and mentors. They empower entrepreneurial thinking and prepare the next generation of leaders to approach human challenges through creative technical solution. We are hugely inspired by them.
 
