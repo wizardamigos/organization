@@ -17,6 +17,10 @@
 # Wall of inspiration
 This page is our little thank you to all the communities around us who inspire us to see and follow our vision. Thank you, guys, for being awesome:)
 
+### Cyberwizard Institute
+* [Cyberwizard Institute](http://cyber.wizard.institute) is an open, collaborative, and free programming school based out of the `Sudo Room` hackerspace in `Oakland`, primarily self-directed, but with guidance from higher level wizards.
+* ![Oakland](http://cyber.wizard.institute/logo.svg)
+
 ### Co.Up
 * [Co.Up](http://co-up.de/) is the space where learners and hackers meet. Our idea and our community was born there. They provide us with space and infrastructure. We are grateful to have them on our side.
 * ![Berlin](http://co-up.de/images/coup_logo.png)
