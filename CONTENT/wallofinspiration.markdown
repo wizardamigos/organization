@@ -23,6 +23,7 @@ This page is our little thank you to all the communities around us who inspire u
 
 ### CoderDojo
 * [CoderDojo](https://coderdojo.com/) is the global network of free computer programming clubs for young people. They focus on community, peer learning, youth mentoring and self led learning,  with an emphasis on showing how coding is a force for change in the world.
+* ![Worldwide](https://coderdojo.com/wp-content/themes/coderdojo/images/logo.png)
 
 ### Hackidemia
 * [Hackidemia](http://www.hackidemia.com/press/) crew is dedicated to create new opportunities for children and mentors. They empower entrepreneurial thinking and prepare the next generation of leaders to approach human challenges through creative technical solution. We are hugely inspired by them.
