@@ -16,7 +16,7 @@
 
 ---
 [](@english)
-# Welcome, Wizard Amigo
+# Welcome, Wizard Amigo :-)
 
 ## Come, learn to code with us.
 
