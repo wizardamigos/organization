@@ -40,7 +40,7 @@ Wizardry is serious business. Higher-level wizards will create a simple video su
 
 Wir geben uns alle Mühe die Lernreise aufregend für alle zukünftigen Wizard Amigos zu machen. Unsere lernen-durch-handeln Methodik hilft dir dabei die richtigen Zaubersprüche kennenzulernen um ein aktiver Problemlöser zu werden. Alle unsere Lernmaterialien sind quelloffen und unter freier Lizenz:
 
-* **Magic tools** ([Unix shell](unixshell), [Text editor](texteditor) & [Web browser](webbrowser))
+* **Magic tools** ([Unix shell][unixshell], [Text editor](texteditor) & [Web browser](webbrowser))
 * **Collaboration channels** ([Github](github), [Waffle](waffle), [Codepen](codepen), [Gitter](gitter))
 * **Markup languages** ([Markdown](markdown), [HTML](html), [SVG](svg) & [CSS](css))
 * **DevOps** ([npm](npm), [atomify](atomify), [git](git), [dns](dns) & [ssh](ssh))
