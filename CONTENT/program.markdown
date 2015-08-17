@@ -26,7 +26,7 @@ We promise to make this learning journey exciting for all future wizard amigos. 
 * **Collaboration channels** ([Github][github], [Waffle][waffle], [Codepen][codepen], [Gitter[gitter])
 * **Markup languages** ([Markdown][markdown], [HTML][html], [SVG][svg] & [CSS][css])
 * **DevOps** ([npm][npm], [atomify][atomify], [git][git], [dns][dns] & [ssh][ssh])
-* **Coding wizardry** ([Node.js][node.js], [JavaScript][javascript], [Web API][web api], [LevelDB][leveldb] & [Regex][regex])
+* **Coding wizardry** ([Node.js][node.js], [JavaScript][javascript], [Web API][webapi], [LevelDB][leveldb] & [Regex][regex])
 
 We also encourage all the participants to pick their own projects (but if they don't, no worries, we will help them find one or they will be able to join existing projects).
 
@@ -44,7 +44,7 @@ Wir geben uns alle Mühe die Lernreise aufregend für alle zukünftigen Wizard A
 * **Collaboration channels** ([Github][github], [Waffle][waffle], [Codepen][codepen], [Gitter[gitter])
 * **Markup languages** ([Markdown][markdown], [HTML][html], [SVG][svg] & [CSS][css])
 * **DevOps** ([npm][npm], [atomify][atomify], [git][git], [dns][dns] & [ssh][ssh])
-* **Coding wizardry** ([Node.js][node.js], [JavaScript][javascript], [Web API][web api], [LevelDB][leveldb] & [Regex][regex])
+* **Coding wizardry** ([Node.js][node.js], [JavaScript][javascript], [Web API][webapi], [LevelDB][leveldb] & [Regex][regex])
 
 Jeder Teilnehmer ist dazu aufgerufen eigene Projekte zu wählen. (Falls nicht, keine Sorge, wir helfen jedem eins zu finden oder in einem existierenden Projekt mitzuhelfen).
 
