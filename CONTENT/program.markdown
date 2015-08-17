@@ -22,7 +22,7 @@
 
 We promise to make this learning journey exciting for all future wizard amigos. Our learning-by-doing approach will help you get to know the right magic spells to become an active problem solver. All our learning materials are open source and under a free license:
 
-* **BLA tools** ([Unix shell](unixshell), [Text editor](texteditor) & [Web browser](webbrowser))
+* **Magic tools** ([Unix shell](unixshell), [Text editor](texteditor) & [Web browser](webbrowser))
 * **Collaboration channels** ([Github](github), [Waffle](waffle), [Codepen](codepen), [Gitter](gitter))
 * **Markup languages** ([Markdown](markdown), [HTML](html), [SVG](svg) & [CSS](css))
 * **DevOps** ([npm](npm), [atomify](atomify), [git](git), [dns](dns) & [ssh](ssh))
@@ -53,7 +53,7 @@ Zauberei ist ein ernsthaftes Geschäft. Erfahrene Zauberer erstellen nach jeder 
 ---
 
 [magictools]: https://github.com/wizardamigosinstitute/program/tree/master/magictools (Learning Materials & Screencasts)
-[unixshell]: https://en.wikipedia.org/wiki/Unix_shell (Learning Materials & Screencasts)
+[unixshell]: https://en.wikipedia.org/wiki/Unix_shell 
 [texteditor]: https://atom.io/ (Learning Materials & Screencasts)
 [webbrowser]: https://en.wikipedia.org/wiki/Google_Chrome (Learning Materials & Screencasts)
 
