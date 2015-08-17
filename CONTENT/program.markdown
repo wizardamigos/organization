@@ -22,7 +22,7 @@
 
 We promise to make this learning journey exciting for all future wizard amigos. Our learning-by-doing approach will help you get to know the right magic spells to become an active problem solver. All our learning materials are open source and under a free license:
 
-* **Magic tools** ([Unix shell](unixshell), [Text editor](texteditor) & [Web browser](webbrowser))
+* **BLA tools** ([Unix shell](unixshell), [Text editor](texteditor) & [Web browser](webbrowser))
 * **Collaboration channels** ([Github](github), [Waffle](waffle), [Codepen](codepen), [Gitter](gitter))
 * **Markup languages** ([Markdown](markdown), [HTML](html), [SVG](svg) & [CSS](css))
 * **DevOps** ([npm](npm), [atomify](atomify), [git](git), [dns](dns) & [ssh](ssh))
