@@ -18,7 +18,7 @@
 [](@english)
 # News
 
-Our next free trial session will take place on Monday and Friday, 5pm @ Co_Up coworking. [See you there.](mailto:wizard@amigos.institute?Subject=Free%20trial)
+Our next free trial session - Tuesday (5-7.30pm) and Friday (5-7.30pm) @ Co_Up coworking. [Apply here.](mailto:wizard@amigos.institute?Subject=Free%20trial)
 
 [//]: # (@TODO - integrate twitter feed later)
 
@@ -26,6 +26,6 @@ Our next free trial session will take place on Monday and Friday, 5pm @ Co_Up co
 [](@german)
 # Aktuelles
 
-Unser nächste kostenlose Probesession findet am Dienstag und Freitag, 17Uhr @ Co_Up coworking statt. [Komm vorbei.](mailto:wizard@amigos.institute?Subject=Probesession)
+Unser nächste kostenlose Probesession - am Dienstag (17-19.30h) und Freitag (17-19.30h) @ Co_Up coworking. [Komm vorbei.](mailto:wizard@amigos.institute?Subject=Probesession)
 
 ---
