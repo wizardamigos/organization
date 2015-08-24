@@ -30,14 +30,14 @@ Every magic session accepts up to 10 learners and is run by at least 2 higher-le
 [//]: # (@TODO - until seats are taken (6 left))
 [//]: # (@TODO - add iCal Format)
 
-| Name                     |  Time               |          Location          |              Subscribe           |
-| :----------------------: |:-------------------:|:--------------------------:|:--------------------------------:| 
-|                          |                      |                             |                                  |
-| **Magic Sessions** |        Tue/Fri 5-6.30pm |    [Adalberstr. 8][address]  |        [Apply](mailto:wizard@amigos.institute?Subject=Application%20form)   |
-|                          |                      |                             |                                  |
-| **Magic Sessions** |        Tue/Fri 6.30-8pm |    [Adalberstr. 8][address]  |        [Apply](mailto:wizard@amigos.institute?Subject=Application%20form)   |
-|                          |                      |                             |                                  |
-| **Super Magic Sessions** |  Tue/Fri 5-8pm |       [Adalberstr. 8][address]  |        [Apply](mailto:wizard@amigos.institute?Subject=Application%20form)  |
+| Name                     |  Time                    |          Location               |     
+| :----------------------: |:-----------------------: |:------------------------------: |
+|                          |                          |                                 |        
+| **Magic Sessions**       |  Tue/Fri 5-6.30pm        |      [CoUp Kreuzberg][address]  |        
+|                          |                          |                                 |                
+| **Magic Sessions**       |  Tue/Fri 6.30-8pm        |    [CoUp Kreuzberg][address]    |        
+|                          |                          |                                 |         
+| **Super Magic Sessions** |  Tue/Fri 5-8pm           |     [CoUp Kreuzberg][address]   |  
 
 Wizard Amigos Institute recognizes that learners have varying financial needs. We strive to help the students who, even with personal sacrifices, are unable to meet the full tuition obligation. Learn about our **[financial aid and scholarship options.](mailto:wizard@amigos.institute?Subject=Financial%20aid%20and%20scholarship%20options&Body=%0D%0A)** 
 
@@ -50,14 +50,14 @@ Wizard Amigos Institute recognizes that learners have varying financial needs. W
 Jede Zaubersitzung hat Platz für bis zu 10 Lernende und wird von mindestens 2 erfahreneren Zauberern begleitet. Melde dich hier für eine [kostenlose Probestunde](mailto:wizard@amigos.institute) und finde heraus ob es dir gefällt.
 
 
-| Name                        |        Zeit      |             Ort            |             Anmelden             |
-| :-------------------------: |:-------------------:|:--------------------------:|:--------------------------------:|
-|                             |                     |                            |                                  |
-| **Zaubersession** |            Di./Fr. 17:00-18:30 |    [Adalberstr. 8][address] |    [Anmelden](mailto:wizard@amigos.institute?Subject=Application%20form)   |
-|                             |                     |                            |                                  |
-| **Zaubersession** |            Di./Fr. 18:30-20:00 |    [Adalberstr. 8][address] |    [Anmelden](mailto:wizard@amigos.institute?Subject=Application%20form)   |
-|                             |                     |                            |                                  |
-| **Super Zaubersession**|       Di./Fr. 17:00-20:00|     [Adalberstr. 8][address]|     [Anmelden](mailto:wizard@amigos.institute?Subject=Application%20form) |
+| Name                        |        Zeit                       |             Ort               |  
+| :-------------------------: |:--------------------------------: |:-----------------------------:|
+|                             |                                   |                               |    
+| **Zaubersession**           |            Di./Fr. 17:00-18:30    |    [CoUp Kreuzberg][address]  |   
+|                             |                                   |                               | 
+| **Zaubersession**           |            Di./Fr. 18:30-20:00    |    [CoUp Kreuzberg][address]  |    
+|                             |                                   |                               |          
+| **Super Zaubersession**     |       Di./Fr. 17:00-20:00         |    [CoUp Kreuzberg][address]  |     
 
 Für jeden bezahlten Lernplatz spenden wir persönlich um unser **Pay-What-You-Can** Programm zu unterstützen. Wenn du dir den vollen Preis nicht leisten kannst, dann bewirb dich hier für unser **[Pay-What-You-Can Programm.](mailto:wizard@amigos.institute?Subject=Financial%20aid%20and%20scholarship%20options&Body=%0D%0A)** 
 
