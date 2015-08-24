@@ -11,7 +11,7 @@
     "issues"    : []
   },
   "custom"    : {
-    "ApplyMail" : mailto:wizard@amigos.institute?Subject=Application%20form
+    "ApplyMail" : "mailto:wizard@amigos.institute?Subject=Application%20form"
   }  
 }
 ---
