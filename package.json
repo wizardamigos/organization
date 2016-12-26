@@ -1,0 +1,35 @@
+{
+  "name": "organization",
+  "version": "1.0.0",
+  "description": "Current Vision, Structure, Processes and the Service Interface of the Wizard Amigos Institute - [Post questions and ideas](https://github.com/wizardamigosinstitute/organisation/issues) as issues and help us to improve",
+  "main": "source/index.js",
+  "scripts": {
+    "open": "opn http://0.0.0.0:8000",
+    "start": "npm run www & npm run watch",
+    "www": "ecstatic .",
+    "watch": "mkdir -p public/browser && watchify source/index.js -p [ browserify-livereload --host 127.0.0.1 --port 1337 ] -t brfs -v -o public/browser/bundle.js",
+    "build": "mkdir -p public/browser && browserify source/index.js -t brfs -o public/browser/bundle.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wizardamigosinstitute/organization.git"
+  },
+  "author": "@serapath",
+  "bugs": {
+    "url": "https://github.com/wizardamigosinstitute/organization/issues"
+  },
+  "homepage": "https://github.com/wizardamigosinstitute/organization#readme",
+  "devDependencies": {
+    "browserify": "^13.1.1",
+    "browserify-livereload": "^1.0.9",
+    "ecstatic": "^2.1.0",
+    "opn-cli": "^3.1.0",
+    "watchify": "^3.8.0"
+  },
+  "dependencies": {
+    "bel": "^4.5.1",
+    "belmark": "^2.0.1",
+    "csjs-inject": "^1.0.1"
+  }
+}
