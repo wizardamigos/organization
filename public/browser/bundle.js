@@ -4382,7 +4382,15 @@ document.addEventListener('keydown', function (event) {
 })
 
 function navigate () {
-  container.childNodes[0].replaceWith(slides[focus])
+  var current = container.childNodes[0]
+  console.log(current)
+  var next = slides[focus]
+  console.log(next)
+  current.replaceWith(next)
+  console.log(slides[0])
+  console.log(slides[1])
+  console.log(slides[2])
+  console.log('yay')
 }
 function goLeft () {
   focus -= 1
@@ -4401,10 +4409,8 @@ var belmark = require('belmark')
 
 module.exports = slidez
 
-function slidez (markdown, seperator = '---') {
-  var slides = (markdown+'').split(seperator)
-  return slides.map(belmark)
-
+function slidez (markdown, { seperator = '---' } = {}) {
+  return (markdown+'').split(seperator).map(s => belmark(s))
 }
 
 },{"belmark":4}]},{},[32]);

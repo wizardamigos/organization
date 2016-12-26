@@ -1,5 +1,5 @@
 // @TODO: should be passed in as argument
-var DATA = require('fs').readFileSync(__dirname + '/slides/slides1.md')
+var DATA = require('fs').readFileSync(__dirname + '/slides/taiwan.md')
 // @TODO: slidez component => can also generate html as cli
 var slidez = require('./slidez')
 
@@ -27,7 +27,15 @@ document.addEventListener('keydown', function (event) {
 })
 
 function navigate () {
-  container.childNodes[0].replaceWith(slides[focus])
+  var current = container.childNodes[0]
+  console.log(current)
+  var next = slides[focus]
+  console.log(next)
+  current.replaceWith(next)
+  console.log(slides[0])
+  console.log(slides[1])
+  console.log(slides[2])
+  console.log('yay')
 }
 function goLeft () {
   focus -= 1
