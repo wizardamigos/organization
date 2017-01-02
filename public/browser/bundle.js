@@ -4354,7 +4354,7 @@ if (typeof window !== "undefined") {
 },{}],32:[function(require,module,exports){
 (function (Buffer){
 // @TODO: should be passed in as argument
-var DATA = Buffer("IyBDT1ZFUiBTTElERSAxCgojIyBXaXphcmRBbWlnb3MgQ29kZUNhbXBzCgojIyMgV2VsY29tZSA6LSkKCi0tLQoKIyBJTlRSTyBTTElERSAxCgojIyAuLi4KCiMjIyBTb3VyY2VzOgotIGh0dHA6Ly9pY3JpZXIub3JnL3BkZi9TZXNzaW9uJTIwVi1LZW5nJTIwTGVlLVByZXNlbnRhdGlvbi5wZGYKCi0tLQoKIyBQUk9CTEVNIFNMSURFIDEKCiMjIC4uLgoKIyMjIC4uLgp5b3lvCg==","base64")
+var DATA = Buffer("W10oI0NPVkVSX1NMSURFKQoKIyMjIFRoZSBGdXR1cmUgSXMgTm93CiMgV2l6YXJkQW1pZ29zCiMjIyBDb2RlQ2FtcHMKCi0tLQpbXSgjVFJFTkRTX1NMSURFID0gQ0hBTkdFIERSSVZFUikKCiMjIyBEZWNsaW5lIGluIHNhbGVzIGZyb20gaW5kdXN0cmlhbCBoYXJkd2FyZQojIyMgPSBUYWl3YW4gbmVlZHMgdG8gc2hpZnQgdG8gc2VydmljZSBvcmllbnRlZCBzb2Z0d2FyZSBpbmR1c3RyeQoKU291cmNlczoKLSBbbGluazFdKGh0dHA6Ly9pY3JpZXIub3JnL3BkZi9TZXNzaW9uJTIwVi1LZW5nJTIwTGVlLVByZXNlbnRhdGlvbi5wZGYpCi0gW2xpbmsyXShodHRwOi8vd3d3LmJ1c2luZXNzLXN3ZWRlbi5zZS9jb250ZW50YXNzZXRzL2VmODcyNzA3OGI0MDRlNWE5MzUwNDgzOTM1NGYwMmIwL2ljdF9vcHBvcnR1bml0eV9pbl90YWl3YW5fMjAxNS5wZGYpCi0gW2xpbmszXShodHRwOi8vZm9jdXN0YWl3YW4udHcvbmV3cy9hZWNvLzIwMTYwNDI3MDAyMC5hc3B4KQotIFtsaW5rNF0oaHR0cDovL3d3dy5tb25leWJhbGxlY29ub21pY3MuY29tL3RoYW5rcy10by1zZW1pY29uZHVjdG9ycy1nbG9iYWwtZWNvbm9taWMtZ3Jvd3RoLWRlY2VsZXJhdGVzLykKLSBbbGluazVdKGh0dHA6Ly90ZWNobmV3cy5jby8yMDE2LzAzLzA1L2dvdmVybm1lbnRzLWJ1c2luZXNzLW1vbml0b3Jpbmctc3lzdGVtLXNob3dzLXRhaXdhbnMtZWNvbm9teS1pcy1zdGlsbC1pbi10aGUtZG9sZHJ1bXMvKQotIFtsaW5rNl0oaHR0cDovL3RoZWRpcGxvbWF0LmNvbS8yMDE2LzA3L2hvdy1iYWQtaXMtdGFpd2Fucy1lY29ub215LykKLSBbbGluazddKGh0dHA6Ly9nbG9iYWxyaXNraW5zaWdodHMuY29tLzIwMTYvMDEvdHNhaXMtZHluYXN0eS10YWl3YW5zLW5ldy1hcHByb2FjaC10by1jaGluYS8pCi0gW2xpbms4XShodHRwOi8vd3d3Lmhlcml0YWdlLm9yZy9yZXNlYXJjaC9yZXBvcnRzLzIwMTQvMDgvbWFya2V0LXNvbHV0aW9ucy1zaG91bGQtYmUtY2VudHJhbC10by11c3MtdGFpd2FuLXBvbGljeSkKCi0tLQpbXSgjUFJPQkxFTV9TTElERSA9IENVU1RPTUVSIFNFR01FTlQpCgojIyMgQlVUIHRoZXJlIGlzIGh1Z2Ugc2hvcnRhZ2Ugb2YgY29tcHV0ZXIgc2NpZW50aXN0cyByZWxhdGl2ZSB0bwojIyMgdGhlIGRlbWFuZCBmb3IgdGhlbSBmcm9tIHRoZSB0ZWNobm9sb2d5IHNlY3RvcgoKU291cmNlczoKLSBodHRwOi8vcmVwb3J0cy53ZWZvcnVtLm9yZy9mdXR1cmUtb2Ytam9icy0yMDE2L2VtcGxveW1lbnQtdHJlbmRzLwotIGh0dHBzOi8vZ29vcm9vLmlvL0dvb3Jvb1RISU5LL0FydGljbGUvMTYxOTEvV2hpY2gtbGFuZ3VhZ2Utd2lucy1pbi10ZXJtcy1vZi1zYWxhcnlkZW1hbmQtSnVseS0yMDE0LzE0MTA1Ci0gaHR0cDovL3d3dy5nZWVrd2lyZS5jb20vMjAxNC9hbmFseXNpcy1leGFtaW5pbmctY29tcHV0ZXItc2NpZW5jZS1lZHVjYXRpb24tZXhwbG9zaW9uLwotIGh0dHA6Ly93d3cuc2xpZGVzaGFyZS5uZXQvSGFsX1NwZWVkL2NvZGVvcmctdGNlYS0yMDE1CgotLS0KW10oI1NPTFVUSU9OX1NMSURFKQoKIyBzb2x1dGlvbgojIG5ldHdvcmsgb2YgYGZyZWUgamF2YXNjcmlwdCBib290Y2FtcHNgCiMgdW5kZXJseWluZyBtYWdpYzogamF2YXNjcmlwdCBpcyBmYXN0ZXN0IGdyb3dpbmcgdW5pdmVyc3VhbCBwcm9ncmFtbWluZyBsYW5ndWFnZSAoaGFyZHdhcmUsIG1vYmlsZSwgd2ViLCBkZXNrdG9wLCBldGMuLi4pCgpTb3VyY2U6CiogaHR0cHM6Ly9ibG9nLmphcmVkZnJpZWRtYW4uY29tLzIwMTUvMDkvMTUvd2h5LWktd291bGRudC11c2UtcmFpbHMtZm9yLWEtbmV3LWNvbXBhbnkvCiogaHR0cHM6Ly93d3cucXVvcmEuY29tL0RvLXJ1Ynktb24tcmFpbHMtZGV2ZWxvcGVycy1nZXQtcGFpZC1tb3JlLXRoYW4tb3RoZXItbGFuZ3VhZ2UtZGV2ZWxvcGVycwoqIGh0dHBzOi8vY29kZXJjYW1wcy5jby9CbG9nL1ZpZXcvQWxsX1NpZ25zX1BvaW50X3RvX0phdmFTY3JpcHQ/cGFnZT03JnV0bV9jb250ZW50PWJ1ZmZlcjczYjdlJnV0bV9tZWRpdW09c29jaWFsJnV0bV9zb3VyY2U9cGx1cy5nb29nbGUuY29tJnV0bV9jYW1wYWlnbj1idWZmZXIKKiBodHRwczovL2VudGVycHJpc2Vqcy5pby93aHktbm9kZS1qcy1pcy1oaXR0aW5nLXRoZS1iaWctdGltZS1pbi1lbnRlcnByaXNlLW1hcmtldHMvCiogaHR0cDovL21vZHVsZWNvdW50cy5jb20KCi0tLQpbXSgjTUFSS0VUX1NMSURFID0gQ09NUEVUSVRJT04pCgojIG1hcmtldAoKLS0tCltdKCNUUkFDVElPTl9TTElERSkKCiMgdHJhY3Rpb24gKHN0YXR1cyt0aW1lbGluZSkKCi0tLQpbXSgjQlVTSU5FU1NfTU9ERUxfU0xJREUpCgojIGJ1c2luZXNzIG1vZGVsCisgcmV2ZW51ZSAtIGV4cGVuc2VzCiYgZmluYW5jaWFsIHByb2plY3Rpb25zCgotLS0KW10oI1RFQU1fU0xJREUpCgojIHRlYW0gKGNvbnRhY3QgKyBhbnkgcXVlc3Rpb25zPykK","base64")
 // @TODO: slidez component => can also generate html as cli
 var slidez = require('./slidez')
 
@@ -4382,15 +4382,7 @@ document.addEventListener('keydown', function (event) {
 })
 
 function navigate () {
-  var current = container.childNodes[0]
-  console.log(current)
-  var next = slides[focus]
-  console.log(next)
-  current.replaceWith(next)
-  console.log(slides[0])
-  console.log(slides[1])
-  console.log(slides[2])
-  console.log('yay')
+  container.childNodes[0].replaceWith(slides[focus])
 }
 function goLeft () {
   focus -= 1
@@ -4405,6 +4397,20 @@ function goRight () {
 
 }).call(this,require("buffer").Buffer)
 },{"./slidez":33,"bel":2,"buffer":6,"csjs-inject":9}],33:[function(require,module,exports){
+ /* @TODO:
+ 	write a markdown2slides generator.
+	1. use in watch mode to life preview while editing
+	2. use to build index.html to publich as gh-page
+	3. add features according to other presentation libraries
+	4. author presentation in markdown as es6 template literal to inject custom data
+	5. ....
+  { e.g.
+    "scripts": {
+      "start": "reveal-md slides.md",
+      "build": "reveal-md slides.md --static > index.html"
+    }
+  }
+*/
 var belmark = require('belmark')
 
 module.exports = slidez

@@ -27,15 +27,7 @@ document.addEventListener('keydown', function (event) {
 })
 
 function navigate () {
-  var current = container.childNodes[0]
-  console.log(current)
-  var next = slides[focus]
-  console.log(next)
-  current.replaceWith(next)
-  console.log(slides[0])
-  console.log(slides[1])
-  console.log(slides[2])
-  console.log('yay')
+  container.childNodes[0].replaceWith(slides[focus])
 }
 function goLeft () {
   focus -= 1
