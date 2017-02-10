@@ -1,68 +1,114 @@
-# Wizard Amigos Institute
-
-Current Vision, Structure, Processes and the Service Interface of the Wizard Amigos Institute - [Post questions and ideas](https://github.com/wizardamigosinstitute/organisation/issues) as issues and help us to improve
-
-[//]: # (@TODO - put a short description underneath every bullet point)
-
-**In this repository, you will find our current:**
-* [Wall of Inspiration](CONTENT/wallofinspiration.markdown)
-  * ...
-* [Manifest](CONTENT/manifest.markdown)
-  * ...
-* PITCH
-  1. [Hook Pitch](hooks.md)
-    * ...
-  2. [Elevator Pitch](CONTENT/pitch.markdown)
-    * ...
-* [News](CONTENT/news.markdown)
-  * ...
-* [Requirements](CONTENT/requirements.markdown)
-  * ...
-* [Program](CONTENT/program.markdown)
-  * ...
-* [Schedule](CONTENT/schedule.markdown)
-  * ...
-* [Support us](CONTENT/support.markdown)
-  * ...
-* [Contribute](CONTENT/contribute.markdown)
-  * ...
-* [About](CONTENT/about.markdown)
-  * ...
-
-*Please feel free to to open issues (ideas or questions) and help us to improve :-)*
+# @WizardAmigos Concept
+## `v1.0.0-first-draft`
 
 
-/////////
-
-OUR MISSION
-We believe programming is the most and some day maybe the main, perhaps even the only important and relevant general education.
-It will soon be like reading/writing - you can have other knowledge too, but without reading/writing its hard to acquire and use it.
-The UK made programming mandatory for every kid starting from primary school on and some countries followed.
-The US has awesome nation wide programs like "Code for America" - but sadly the ruling christian party in Germany is slowing down progress on "that front".
-Our long term goal is to teach programming to as many kids as possible and free of charge, as we feel people in Germany are falling behind fast and maybe we can do something about it, because the government does not seem to care.
-
-
-OUR GOAL
-We want to scale the school as fast as possible regarding
-sponsors
-kids / learners
-weekly lessons we give
-...because there will be lots of synergy effects we can realize, => which will result in a lower price for each kid.
+## `Manifesto` (Idea)
+What we are trying to build is:
+* A decentralized open source javascript learn & work ecosystem
+* `mentors` make & maintain a hyper modular lessons depedency tree and
+* earn micro percentages from making and maintaining in demand lessons
+* to offer any `client` to publish paid tasks next to required lessons
+* and to enable a flood of `learners` to
+* earn nano certificates and micro percentages while they learn
+* developers are encouraged to take on the roles of
+	* `mentors`, `clients` and `learners` to earn and grow the ecosystem
 
 
-OUR PRICING
-We calculated our pricing and cost structure and we aim to publish it soon, because we believe in total transparency when it comes to business.
-Currently, it takes a lot of time, because we are...
-Preparing the program we teach
-Doing the bureaucracy (setting up a company, talking to accountant, filling out forms, ...)
-Doing the marketing (website, flyers, small online campaigns, ...)
-Booking the room & Actually being there every Monday afternoon to teach
-It's quite some effort for us and our freelance activities currently earn us way more money for the time we spend to get the job done,
-so we use that fact to be able to give away some "Early Bird Discounts" - but that's not a long term option, because we need the school to become sustainable.
+## `Mechanism`
+#### 1. Goal: Mentors grow and maintain a healthy modular lessons tree
+* **Incentivize:** `Mentors` - Open Source Developers & Hacktivists
+	* `Mentors` can promote skills by making lessons for them
+	* `Mentors` can attract paid tasks matching their interests
+	* `Mentors` earn a micro percentage from paid tasks from every
+		* lesson they maintain and the dependent lessons
+	* `Mentors` earn micro percentages whenever they decide to do tasks
+* **Execution** We make a list of developers who want to join.
+	* We list and connect our skills into a granular skill tree
+	* Come up with an immersive educational storybook format
+	* Make & maintain lessons for skills (and earn micro percentages)
+* **Related Projects**
+	* (inspiration) http://www.dungeonsanddevelopers.com/
+	* https://github.com/wizardamigosinstitute
 
 
-OUR NEXT STEPS  => Here we need you :-)
-Next to our regular work, we are constantly approaching sponsors in order to be able to lower the costs for kids, but it takes time and the same is true for marketing in order to reach out to more kids/parents. As soon as we have some (sponsors or more kids), we will announce it and lower the prices for all kids and in the mean time:
-If your company or people/companies you know might be potential sponsors that would help us to speed up the process and the parent who helped will benefit the most.
-Our "Voucher Program" (mentioned in the last email) can lower costs for each kid in the mean time, thus, if Ethan has some friends who are interested too, it will lower the costs for Ethan and the new kids by 50% for a month and permanently lower it by 10% for the kid that brought in a new kid, as long as it stays.
-For now, all the effort we put in is to the benefit of "Taymal" and "Ethan" and soon a third kid.
+#### 2. Goal: Clients outsource paid tasks matching skill tree lessons
+* **Incentivize:** `Clients` - People, Companies, Organizations & Gov's
+	* `Clients` get their problems solved in a sustainable fashion
+		* `ecosystem` assures lots of devs with maintainance skills
+	* `Clients` reduce the amount of money they spent on finding devs
+	* `Clients` get listed as supporters of the ecosystem after paying a finished task
+	* `Clients` improve their image for supporting open source
+	* `Clients` reduce risk of getting stuck with outdated frameworks
+	* `Clients` turn fixed costs for employees into variable costs 
+* **Execution** We search/scrape all existing online jobs/gig platforms
+	* to cherry pick **`remote`** priced tasks that fit the skill tree
+	* offer them to be published as supporters after paying a for tasks
+* **Execution** We contact remote friendly companies and offer/apply to 
+	* those who want to publish paid remote tasks matching tree lessons
+		* tasks go into a lesson related kanban board (waffle.io for example)
+		* or a general one if lessons are missing
+	* those who want a task done, pay money immediately to our escrow service
+	* try to semi-automate that process as good as possible
+* **Related Projects**
+	* https://github.com/RefugeesWork/
+	* https://github.com/workingamigos
+
+
+#### 3. Goal: Learners get paid while learning how to code
+* **Incentivize:** `Learners` - All humans (beginners & experts) :-)
+	* `Learners` can browse listed tasks to see learning is worth it
+	* `Learners` who solve lessons earn modular nano certificates
+		* that unlock them for listed tasks
+	* `Learners` earn for executing the tasks 
+	* `Learners` can learn & work flexibly when they have time
+	* `Learners` dont spend too much time for overhead activities like:
+		* interviewing/applying/commuting/...
+	* `Learners` can earn margin by outsourcing as `Clients` to others
+		* by outsourcing modular subtasks to other learners
+	* `Learners` have long term perspective by making
+		* their own apps later alone or with other
+	* `Learners` do not have to worry about accounting bureaucracy
+* **Execution** We inform unaware learners
+	* about the ongoing automation of the economy
+	* about the opportunity to earn while learning how to code
+* **Execution** We notify subscribed learners (round robin style?)
+	* to check new available paid tasks that match their skills
+* **Execution** We standardize transactions to automate accounting
+	* and all kinds of reports necessary where possible
+* **Execution** We encourage experienced learners to take on big tasks
+	* and split them into modular sub-tasks for less experienced ones
+* **Related Projects**
+	* https://github.com/codingamigos/
+	* https://github.com/digitalsolopreneur/
+
+
+#### 4. Goal: Work together cooperatively in a growing ecosystem
+* **Incentivize:**
+	* `Learners`, `Clients` and `Mentors` will be "insured"
+	* `Learners` can earn by using the ecosystem as `Clients` or `Mentors`
+* **Execution** We pay out finshed tasks based on share distribution
+	* to everyone according to their contribution
+* **Execution** We encourage advanced Learners to launch products
+	* By collaborating with other mentors & learners
+* **Related Projects**
+	* https://github.com/Micro-Holding-Co-Ownership
+
+
+#### Future Goal: Make the world one and overcome nation borders
+* **Incentivize**
+	* People can move and life their life's freely :-)
+* ***Execution** We make a network of co-learning/working/living spaces 
+	* Check VISA and other bureaucracy and loopholes to enable travel
+	* Search for affordable housing and food matching lifestyles
+	* Organize co-working & co-learning
+	* Provide Infrastructure to make stuff happen :-)
+* **Related Projects**
+	* https://github.com/Workation
+
+---
+
+## Additional Background
+* http://slides.com/serapath/journey2amigonia#/
+* http://slides.com/serapath/wizardamigos-7#/
+* https://github.com/serapath/economy
+* ~~(https://github.com/SquatUp/projects)~~
