@@ -95,11 +95,12 @@ What we are trying to build is:
 
 
 #### Future Goal: Make the world one and overcome nation borders
-* **shift to the demand-side economics and mutal aid network instead of
+* **Shift to the demand-side economics and mutal aid network instead of
 supply-side competition**
+	* Building our own products/services and connect them API-to-API
 * **Incentivize**
 	* People can move and life their life's freely :-)
-* ***Execution** We make a network of co-learning/working/living spaces 
+* **Execution** We make a network of co-learning/working/living spaces 
 	* Check VISA and other bureaucracy and loopholes to enable travel
 	* Search for affordable housing and food matching lifestyles
 	* Organize co-working & co-learning
