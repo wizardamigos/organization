@@ -95,6 +95,8 @@ What we are trying to build is:
 
 
 #### Future Goal: Make the world one and overcome nation borders
+* **shift to the demand-side economics and mutal aid network instead of
+supply-side competition**
 * **Incentivize**
 	* People can move and life their life's freely :-)
 * ***Execution** We make a network of co-learning/working/living spaces 
