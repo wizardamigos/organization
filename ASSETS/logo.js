@@ -1,0 +1,64 @@
+var yo = require('yo-yo')
+
+/* ---------------------------------------------------
+		COLORS
+--------------------------------------------------- */
+var dB = '#081b53' // darkBlue
+var b  = '#3022bb' // blue
+var lB = '#7766fc' // lightBlue
+var lP = '#f989ff' // lightPink
+var dP = '#730d61' // darkPink
+var B  = '#080707' // black
+var g  = '#2e3f41' // grey
+var sY = '#f7da8b' // skinYellow
+var W  = '#ffffff' // white
+/* ---------------------------------------------------
+		IMAGE
+--------------------------------------------------- */
+
+var image = [
+W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W,
+W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W,
+W, W, W, W, W, W, W, B, B, B, B, B, B, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W,
+W, W, W, W, W, B, B, lB, lB, lB, lB, lB, lB, B, B, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W,
+W, W, W, B, B, lB, lB, b, b, b, b, b, b, lB, lB, B, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W,
+W, W, B, lB, b, b, dB, dB, dB, b, b, b, b, b, b, b, B, B, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W,
+W, B, lB, B, B, B, B, b, b, dB, b, dB, b, b, b, b, b, b, B, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W,
+W, W, B, W, W, W, W, B, dB, b, dB, b, b, dB, b, b, b, b, b, B, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W,
+W, W, W, W, W, W, W, W, B, dB, b, dB, b, b, b, b, b, b, b, B, W, B, B, B, B, B, B, W, W, W, W, W, W, W, W, W, W, W, W, W,
+W, W, W, W, W, W, W, W, W, B, dB, b, dB, b, dB, b, b, lB, lB, lB, B, lB, b, dB, b, b, b, B, W, W, W, W, W, W, W, W, W, W, W, W,
+W, W, W, W, W, W, W, W, W, W, B, dB, dB, lB, b, B, B, dB, dB, dB, B, B, dB, b, dB, B, B, W, W, W, W, W, W, W, W, W, W, W, W, W,
+W, W, W, W, W, W, W, W, W, B, B, lB, lB, b, B, W, W, B, B, B, W, W, B, dB, B, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W,
+W, W, W, W, W, W, W, B, B, lB, b, b, b, B, W, B, B, W, B, W, B, B, W, B, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W,
+W, W, W, W, W, B, B, lB, b, b, b, dB, dB, dB, B, sY, sY, B, sY, B, sY, sY, B, B, B, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W,
+W, W, W, W, B, lB, b, b, dB, dB, dB, B, B, B, sY, W, W, sY, sY, W, W, sY, B, B, W, B, W, W, W, W, W, W, W, W, W, W, W, W, W, W,
+W, W, W, B, b, dB, dB, dB, B, B, B, W, W, B, sY, W, lP, sY, sY, W, lP, sY, sY, B, W, B, W, W, W, W, W, W, W, W, W, W, W, W, W, W,
+W, W, B, lB, b, B, B, B, W, W, W, W, W, B, sY, W, dP, sY, sY, W, dP, sY, sY, B, W, B, W, W, W, W, W, W, W, W, W, W, W, W, W, W,
+W, W, W, B, B, W, W, B, W, W, W, B, B, sY, sY, sY, B, B, B, B, B, sY, sY, B, W, W, B, W, W, W, W, W, W, W, W, W, W, W, W, W,
+W, W, W, W, W, W, B, W, B, W, W, B, sY, sY, sY, B, W, W, W, W, W, B, B, W, W, B, W, W, W, W, W, W, W, W, W, W, W, W, W, W,
+W, W, W, W, W, W, B, W, W, W, W, B, sY, B, B, W, W, W, B, W, W, W, B, B, W, W, B, W, W, W, W, W, W, W, W, W, W, W, W, W,
+W, W, W, W, W, W, B, W, B, W, W, W, W, W, W, W, W, B, W, B, W, W, W, W, B, B, W, W, W, W, W, W, W, W, W, W, W, W, W, W,
+W, W, W, W, W, W, W, B, B, B, B, W, W, B, B, B, B, W, W, W, B, B, B, B, W, B, W, B, B, B, B, B, B, B, W, W, W, W, W, W,
+W, W, W, W, W, W, B, lB, b, b, B, W, W, W, W, W, W, W, W, W, B, W, W, W, B, W, W, B, g, g, g, g, g, B, W, W, W, W, W, W,
+W, W, W, W, W, W, W, B, lB, B, b, B, B, B, B, B, W, W, W, B, W, B, B, B, B, B, W, B, g, g, g, g, g, B, W, W, W, W, W, W,
+W, W, W, W, W, W, W, W, B, B, lB, lB, b, lB, b, b, B, B, B, B, B, B, B, B, sY, sY, B, g, g, g, g, g, B, W, W, W, W, W,
+W, W, W, W, W, W, W, W, W, W, B, lB, b, b, lB, b, b, b, B, sY, sY, sY, B, sY, sY, B, sY, sY, B, g, g, g, g, g, B, W, W, W, W, W, W, W,
+W, W, W, W, W, W, W, W, B, lB, lB, lB, b, b, b, b, B, sY, sY, sY, B, sY, sY, B, B, B, g, g, g, g, g, B, W, W, W, W, W, W, W, W,
+W, W, W, W, W, W, W, W, B, lB, lB, b, lB, b, b, B, b, B, B, B, B, B, B, B, B, g, B, B, B, B, B, B, W, W, W, W, W, W, W, W, W,
+W, W, W, W, W, W, W, B, lB, b, b, b, b, b, B, b, B, b, B, b, B, B, B, B, B, B, B, B, B, B, B, B, B, W, W, W, W, W, W,
+W, W, W, W, W, W, W, B, lB, lB, b, b, b, b, B, B, B, B, b, b, B, B, g, g, g, g, g, g, g, g, g, g, g, g, B, W, W, W, W, W,
+W, W, W, W, W, W, W, B, lB, b, lB, b, b, B, B, B, B, B, B, b, B, B, g, g, g, g, g, g, g, g, g, g, g, g, B, W, W, W, W, W,
+W, W, W, W, W, W, W, B, lB, b, b, b, B, B, B, dB, B, B, B, b, b, B, g, g, B, B, B, B, B, B, B, B, g, g, B, W, W, W, W, W,
+W, W, W, W, W, W, B, lB, b, lB, b, b, B, B, B, dB, B, B, B, B, b, B, g, g, B, W, W, W, W, W, W, B, g, g, B, W, W, W, W, W,
+W, W, W, W, W, W, B, b, b, b, B, B, B, B, B, B, B, B, B, B, B, B, g, g, B, W, W, W, W, W, W, B, g, g, B, W, W, W, W, W,
+W, W, W, W, W, B, b, b, B, B, W, W, B, B, B, B, B, B, B, B, B, B, g, g, B, W, W, W, W, W, W, B, g, g, B, W, W, W, W, W
+]
+/* ---------------------------------------------------
+		FUNCTIONS
+--------------------------------------------------- */
+function draw () {
+  return image.map((x,i)=>yo`<rect x=${(i%40 * 10)} y=${Math.floor(i/40)*10} width="10" height="10" fill='${x}'>`)
+}
+
+var el = yo`<svg viewbox="0 0 100 100" width="800" height="500" >${draw()} </svg>`
+document.body.appendChild(el)
