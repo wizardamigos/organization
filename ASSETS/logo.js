@@ -48,16 +48,17 @@ W, W, W, W, W, W, W, W, B, lB, lB, b, lB, b, b, B, b, B, B, B, B, B, B, B, B, g,
 W, W, W, W, W, W, W, B, lB, b, b, b, b, b, B, b, B, b, B, b, B, B, B, B, B, B, B, B, B, B, B, B, B, W, W, W, W, W, W,
 W, W, W, W, W, W, W, B, lB, lB, b, b, b, b, B, B, B, B, b, b, B, B, g, g, g, g, g, g, g, g, g, g, g, g, B, W, W, W, W, W,
 W, W, W, W, W, W, W, B, lB, b, lB, b, b, B, B, B, B, B, B, b, B, B, g, g, g, g, g, g, g, g, g, g, g, g, B, W, W, W, W, W,
-W, W, W, W, W, W, W, B, lB, b, b, b, B, B, B, dB, B, B, B, b, b, B, g, g, B, B, B, B, B, B, B, B, g, g, B, W, W, W, W, W,
-W, W, W, W, W, W, B, lB, b, lB, b, b, B, B, B, dB, B, B, B, B, b, B, g, g, B, W, W, W, W, W, W, B, g, g, B, W, W, W, W, W,
-W, W, W, W, W, W, B, b, b, b, B, B, B, B, B, B, B, B, B, B, B, B, g, g, B, W, W, W, W, W, W, B, g, g, B, W, W, W, W, W,
+W, W, W, W, W, W, W, B, lB, b, b, b, B, dB, B, lB, B, dB, B, b, b, B, g, g, B, B, B, B, B, B, B, B, g, g, B, W, W, W, W, W,
+W, W, W, W, W, W, B, lB, b, lB, b, b, B, B, B, b, b, B, B, B, b, B, g, g, B, W, W, W, W, W, W, B, g, g, B, W, W, W, W, W,
+W, W, W, W, W, W, B, b, b, b, B, B, B, B, B, B, lB, B, B, B, B, B, g, g, B, W, W, W, W, W, W, B, g, g, B, W, W, W, W, W,
 W, W, W, W, W, B, b, b, B, B, W, W, B, B, B, B, B, B, B, B, B, B, g, g, B, W, W, W, W, W, W, B, g, g, B, W, W, W, W, W
 ]
 /* ---------------------------------------------------
 		FUNCTIONS
 --------------------------------------------------- */
 function draw () {
-  return image.map((x,i)=>yo`<rect x=${(i%40 * 10)} y=${Math.floor(i/40)*10} width="10" height="10" fill='${x}'>`)
+  var size = 10
+  return image.map((x,i)=>yo`<rect x=${(i%40 * size)} y=${Math.floor(i/40)*size} width=${size} height=${size} fill='${x}'>`)
 }
 
 var el = yo`<svg viewbox="0 0 100 100" width="800" height="500" >${draw()} </svg>`
