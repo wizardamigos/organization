@@ -1,6 +1,50 @@
 # @WizardAmigos Concept
 ## `v1.0.0-first-draft`
 
+## Want to start your local Wizard Amigos group? 
+# How to organize Wizard Amigos meetup
+
+>All you need is:
+>* a free community space (in Berlin that's CoUp event space and in Taiwan Mozilla community space and now one private space by @jefferysac who started a new Taiwanese group)
+>* we publish event on meetup.com/codingamigos (Berlin based meetup is called CodingAmigos but we list all events in the same group, Wizard and Coding amigos)
+>* you come to the event every week or once in 2 weeks or 2x a week, however you can, but regularly and you act as a host, greeting new people, tell them the story of why and how the community works, you get them to know the chat and learning tools, and then you basically learn and work together on this meetups, each on their own thing, but sharing, discussing, supporting each other
+>* And by providing space for people to come and learn and share time for common interest (code, javascript, nomadic lifestyle, self employment, open source, blockchain and p2p web, activism etc.) your group will slowly grow and people will come back because it's free, it's cozy, it's a nice group of like-minded people and it's even part of international community so you can find your 'amigos = friends' in Berlin, Taiwan and in the future also other places 
+
+### Space
+
+- big table, people sit around (community feeling)
+
+### How does it work
+
+- no presentation, more co-learning, co-working
+- with computers
+
+### New people
+
+- take care of them, help them to connect to the group
+- ask about their interests, background and try to connect them to the like-minded in the group
+- host(s) introduce the chat and help people sign up
+- introduction to Wizard Amigos (if they are interested) and to learning resources
+
+### Hosts (one or more)
+
+- not authority, but more of a 'keyholder'
+- make events possible 
+- update meetup.com (if events are cancelled etc.)
+- take pictures and upload on FB group and meetup.com so other wizards from other countries can imagine who are people in the chat and to easier connect with each other 
+
+### Members
+
+- respect each other
+- take care every member has enough space to express themselves (also the shy ones)
+- support and help each other
+- share knowledge
+
+### People often ask 
+- Why there is no specific topic? 
+- Do you guys already start to work remotely with each other?  
+
+---
 
 ## `Manifesto` (Idea)
 What we are trying to build is:
